@@ -7,16 +7,31 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.Comments({
+      // <script src="https://giscus.app/client.js"
+      //   data-repo="ALifeLivedFully-Domain/Notes.ALifeLivedFully.com"
+      //   data-repo-id="R_kgDONKeHbg"
+      //   data-category="Announcements"
+      //   data-category-id="DIC_kwDONKeHbs4CkBDe"
+      //   data-mapping="url"
+      //   data-strict="0"
+      //   data-reactions-enabled="1"
+      //   data-emit-metadata="0"
+      //   data-input-position="top"
+      //   data-theme="preferred_color_scheme"
+      //   data-lang="en"
+      //   crossorigin="anonymous"
+      //   async>
+      // </script>
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'ALifeLivedFully/',
+        repo: 'ALifeLivedFully-Domain/Notes.ALifeLivedFully.com',
         // from data-repo-id
-        repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
+        repoId: 'R_kgDONKeHbg',
         // from data-category
         category: 'Announcements',
         // from data-category-id
-        categoryId: 'DIC_kwDOFxRnmM4B-Xg6',
+        categoryId: 'DIC_kwDONKeHbs4CkBDe',
       }
     }),
   ],
