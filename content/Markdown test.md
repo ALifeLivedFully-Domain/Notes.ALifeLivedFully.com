@@ -107,10 +107,16 @@ var test = function this_is(){
 
 > here is blockquote
 
-[image link](https://github.com/suan/github-flavored-markdown-test/blob/master/afu.png)
 
-![embed image](https://github.com/suan/github-flavored-markdown-test/blob/master/afu.png)
+>[!tip]- Good to Have
+> **Geometry**
+> - [[Discrete Geometry]]
+>   
+> **Number Theory - Divisibility and Primes** 
+> - [[Factor]]
+> - [[GCD]]
+> - [[Modulo]]
 
-![https://github.com/suan/github-flavored-markdown-test/blob/master/afu.png]
 
-![[https://github.com/suan/github-flavored-markdown-test/blob/master/afu.png]]
+Red colored text
+{style="color: red"}
