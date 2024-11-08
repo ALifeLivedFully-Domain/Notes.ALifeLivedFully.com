@@ -4,22 +4,35 @@ draft: false
 tags: 
 description: 
 permalink: 
-aliases: []
+aliases: 
+date:
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
 # Primary dashboard
-Hello world!
 
-Some common frontmatter fields that are natively supported by Quartz:
-
-- `title`: Title of the page. If it isn’t provided, Quartz will use the name of the file as the title.
-- `description`: Description of the page used for link previews.
-- `permalink`: A custom URL for the page that will remain constant even if the path to the file changes.
-- `aliases`: Other names for this note. This is a list of strings.
-- `tags`: Tags for this note.
-- `draft`: Whether to publish the page or not. This is one way to make [pages private](https://quartz.jzhao.xyz/features/private-pages) in Quartz.
-- `date`: A string representing the day the note was published. Normally uses `YYYY-MM-DD` format.
+## Certifications and training
+- ⚕️ Healthcare
+	 - CNA - Certified nursing assistant
+	 - PCA - Personal Care assistant
+	 - HHA - Home health aid
+	 - MHFA - Mental health first aid
+	 - BBP - Blood borne pathogens
+	 - WVP - Workplace violence prevention for nurses
+- 🔧 Blue collar Trades
+	 - Forklift operator license
+ - 🤖 Tech
+	 - Responsive web design
+- 🚗 General
+	- GED
+	- Drivers license
+	- Fishing license
+	- Passport
+	- Covid vaccinations
+	- Permit to purchase
+	- Permit to carry
+- ⏳ Work in progress
+	- CDL - Commercial drivers license
+	- Electrical apprenticeship
+	- Level 1 teaching certification
 
 ## Callouts
 
@@ -34,3 +47,4 @@ Some common frontmatter fields that are natively supported by Quartz:
 
 > [!info]
 > Lorem ipsum dolor sit amet
+
