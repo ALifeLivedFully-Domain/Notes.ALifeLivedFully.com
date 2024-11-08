@@ -107,4 +107,10 @@ var test = function this_is(){
 
 > here is blockquote
 
-[Relative image link](afu.png)
+[image link](https://github.com/suan/github-flavored-markdown-test/blob/master/afu.png)
+
+![embed image](https://github.com/suan/github-flavored-markdown-test/blob/master/afu.png)
+
+![https://github.com/suan/github-flavored-markdown-test/blob/master/afu.png]
+
+![[https://github.com/suan/github-flavored-markdown-test/blob/master/afu.png]]
