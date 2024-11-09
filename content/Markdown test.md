@@ -129,6 +129,20 @@ This is a <mark>highlighted quote</mark>.
 
 this is ==highlighted quote==.
 
+@test
+
+test@email.com
+
+I :heart: Hugo :smile:
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+
 
 
 [^1]: Footnote example.
