@@ -120,3 +120,15 @@ var test = function this_is(){
 
 Red colored text
 {style="color: red"}
+
+I have more [^1] to say.
+
+
+
+This is a <mark>highlighted quote</mark>.
+
+this is ==highlighted quote==.
+
+
+
+[^1]: Footnote example.
