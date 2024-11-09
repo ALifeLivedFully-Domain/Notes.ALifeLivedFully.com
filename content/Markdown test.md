@@ -123,7 +123,7 @@ Red colored text
 
 I have more [^1] to say.
 
-
+![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 
 This is a <mark>highlighted quote</mark>.
 
@@ -150,6 +150,9 @@ graph TD;
 | Strikethrough          | `~~ ~~`                | `~~Striked out text~~`                   | ~~Striked out text~~                   |
 | Highlight              | `== ==`                | `==Highlighted text==`                   | ==Highlighted text==                   |
 | Bold and nested italic | `** **` and `_ _`      | `**Bold text and _nested italic_ text**` | **Bold text and _nested italic_ text** |
-| Bold and italic        | `*** ***` or `___ ___` | `***Bold and italic text***`             | **_Bold and italic text_**             |
+| Bold and italic        | `*** ***` or `___ ___` | `___Bold and italic text___`             | ___Bold and italic text___             |
+| Bold and italic        | `*** ***` or `___ ___` | `***Bold and italic text***`             | ***Bold and italic text***             |
+
+
 
 [^1]: Footnote example.
