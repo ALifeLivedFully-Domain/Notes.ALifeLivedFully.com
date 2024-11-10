@@ -207,27 +207,37 @@ Alias: cite
 You can add footnotes to your notes using the following syntax:
 
 ### Simple footnote
+
 `This is a simple footnote[^1].`
+
 This is a simple footnote[^1].
 
 ### Named footnotes
+
 `this is a named footnote[^note].`
+
 this is a named footnote[^note].
 
 ### Referenced text
+
 `[^1]: This is the referenced text.`
+
 [^1]: This is the referenced text.
 
 ### Referenced text (Multiple lines)
+
 ```
 [^2]: Add 2 spaces at the start of each new line.
   This lets you write footnotes that span multiple lines.
 ```
+
 [^2]: Add 2 spaces at the start of each new line.
   This lets you write footnotes that span multiple lines.
 
 ### Referenced text (Named)
+
 `[^note]: This is the referenced text.`
+
 [^note]: Named footnotes still appear as numbers, but can make it easier to identify and link references.
 
 ---
@@ -262,3 +272,15 @@ pie title NETFLIX
          "Watching" : 10
 
 ```
+
+---
+## Extra
+
+### Comments
+This is an %%inline%% comment.
+
+%%
+This is a block comment.
+
+Block comments can span multiple lines.
+%%
