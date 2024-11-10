@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "notes.alifelivedfully.com",
-    ignorePatterns: ["private", "Templates", "templates", ".obsidian"],
+    ignorePatterns: ["Private", "private", "Templates", "templates", "Hidden", "hidden", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

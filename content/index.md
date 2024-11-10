@@ -34,17 +34,3 @@ date:
 	- Electrical apprenticeship
 	- Level 1 teaching certification
 
-## Callouts
-
-> [!faq]- Are callouts foldable?
-> Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
-
-> [!faq]+ Are callouts foldable?
-> Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
-
-> [!tip] Callouts can have custom titles
-> Like this one.
-
-> [!info]
-> Lorem ipsum dolor sit amet
-

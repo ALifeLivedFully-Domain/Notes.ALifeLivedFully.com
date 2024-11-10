@@ -4,79 +4,85 @@ config:
     ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'
 ---
 
-### This README can be used as a reference for github-flavored-markdown styling (and possibly behavior).
+# Markdown reference test
+This note can be used as a reference for markdown styling and behavior.
 
 ---
-
+## Headings
+```markdown
 # H1
 followed by some text
+```
 
+```markdown
 ## H2
 followed by some text
+```
 
+```markdown
 ### H3
 followed by some text
+```
 
+```markdown
 #### H4
 followed by some text
+```
 
+```markdown
 ##### H5
 followed by some text
+```
 
+```markdown
 ###### H6
 followed by some text
+```
 
-Auto-detected link: http://www.france.com
+---
+## Styling
 
-Some Ignored_multiple_underscore_italics here
-
-A line of normal text with `inline code` and *italics*, **strong font**, and even some μ†ℱ ╋ℯ╳╋. Followed by lots of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id sem purus, eu commodo tortor. Donec malesuada ultricies dolor a eleifend. In hac habitasse platea dictumst. Vivamus a faucibus ligula. Nullam molestie tristique arcu, eu elementum metus ultricies sed. Aenean luctus congue lectus, vitae semper erat rhoncus non. Nulla facilisi.
-
-Followed by another line of normal text with `inline code` and *italics*, **strong font**, and even some μ†ℱ ╋ℯ╳╋. Followed by lots of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id sem purus, eu commodo tortor. Donec malesuada ultricies dolor a eleifend. In hac habitasse platea dictumst. Vivamus a faucibus ligula. Nullam molestie tristique arcu, eu elementum metus ultricies sed. Aenean luctus congue lectus, vitae semper erat rhoncus non. Nulla facilisi.
-
-Thin horizontal rule:
-
---
-
-Thick horizontal rule:
+| Style                  | Syntax                 | Example                                  | Output                                 |
+| ---------------------- | ---------------------- | ---------------------------------------- | -------------------------------------- |
+| Bold                   | `** **` or `__ __`     | `**Bold text**`                          | **Bold text**                          |
+| Italic                 | `* *` or `_ _`         | `*Italic text*`                          | _Italic text_                          |
+| Strikethrough          | `~~ ~~`                | `~~Striked out text~~`                   | ~~Striked out text~~                   |
+| Highlight              | `== ==`                | `==Highlighted text==`                   | ==Highlighted text==                   |
+| Bold and nested italic | `** **` and `_ _`      | `**Bold text and _nested italic_ text**` | **Bold text and _nested italic_ text** |
+| Bold and italic        | `*** ***` or `___ ___` | `***Bold and italic text***`             | ***Bold and italic text***             |
 
 ------
+## Code blocks
 
-|Table Header 1|Table Header 2           |
-|--------------|-------------------------|
-|Content       |http://example.org       |
-|Content       |http://localhost:\<port\>|
-Text right below table. Follows is a table with an empty cell, and unaligned indenting.
-
-|Table Header 1|Table Header 2|
-|--------------|--------------|
-|Content  |  Cntent        |
-|Content       |      |
-
-Empty line between table and this text
-
+### 4 space indent
     def this_is
       puts "some #{4-space-indent} code"
     end
 
+### Code tag
 <code>
 def this_is
   puts "some #{code tag} code"
 end
 </code>
 
+### Pre tag
 <pre>
 def this_is
   puts "some #{pre tag} code"
 end
 </pre>
 
+### Fenced code
 ```
 def this_is
   puts "some #{fenced} code"
 end
 ```
 
+### Syntax highlighting
+
+#### Ruby
 ```ruby
 class Classy
   def this_is
@@ -86,17 +92,11 @@ class Classy
 end
 ```
 
+#### Javascript
 ```javascript
 var test = function this_is(){
   console.log("some" + colored + "javascript code with javascript syntax highlighting really long");
 }
-```
-
-```clojure
-(defproject myproject "0.5.0-SNAPSHOT"
-  :description "Some clojure code with syntax highlighting."
-  :dependencies [[org.clojure/clojure "1.5.1"]]
-  :plugins [[lein-tar "3.2.0"]])
 ```
 
 ```js
@@ -105,41 +105,137 @@ var test = function this_is(){
 }
 ```
 
+#### Clojure
+```clojure
+(defproject myproject "0.5.0-SNAPSHOT"
+  :description "Some clojure code with syntax highlighting."
+  :dependencies [[org.clojure/clojure "1.5.1"]]
+  :plugins [[lein-tar "3.2.0"]])
+```
+
+#### Bogus_language
 ```bogus_language
 var test = function this_is(){
   console.log("language declared as bogus_language");
 }
 ```
 
-> here is blockquote
+---
+
+## Call-outs
+
+### Call-out features
+#### Fold-able (Default to folded)
+> [!faq]- Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+
+#### Fold-able (Default to unfolded)
+> [!faq]+ Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+
+#### Custom names
+> [!tip] Callouts can have custom titles
+> Like this one.
+
+### Call-out types
+#### Note
+> [!note]
+> Lorem ipsum dolor sit amet
+
+#### Abstract
+> [!abstract]
+> Lorem ipsum dolor sit amet
+
+Aliases: summary, tldr
+
+#### Info
+> [!info]
+> Lorem ipsum dolor sit amet
 
 
->[!tip]- Good to Have
-> **Geometry**
-> - [[Discrete Geometry]]
->   
-> **Number Theory - Divisibility and Primes** 
-> - [[Factor]]
-> - [[GCD]]
-> - [[Modulo]]
+#### Todo
+> [!todo]
+> Lorem ipsum dolor sit amet
 
+#### Tip
+> [!tip]
+> Lorem ipsum dolor sit amet
 
-Red colored text
-{style="color: red"}
+Aliases: hint, important
+#### Success
+> [!success]
+> Lorem ipsum dolor sit amet
 
-I have more [^1] to say.
+Aliases: check, done
+#### Question
+> [!question]
+> Lorem ipsum dolor sit amet
 
+Aliases: help, faq
+#### Warning
+> [!warning]
+> Lorem ipsum dolor sit amet
+
+Aliases: caution, attention
+#### Failure
+> [!failure]
+> Lorem ipsum dolor sit amet
+
+Aliases: fail, missing
+#### Danger
+> [!danger]
+> Lorem ipsum dolor sit amet
+
+Alias: error
+#### Bug
+> [!bug]
+> Lorem ipsum dolor sit amet
+
+#### Example
+> [!example]
+> Lorem ipsum dolor sit amet
+
+#### Quote
+> [!quote]
+> Lorem ipsum dolor sit amet
+
+Alias: cite
+
+---
+
+## Footnotes
+You can add footnotes to your notes using the following syntax:
+
+### Simple footnote
+`This is a simple footnote[^1].`
+This is a simple footnote[^1].
+
+### Named footnotes
+`this is a named footnote[^note].`
+this is a named footnote[^note].
+
+### Referenced text
+`[^1]: This is the referenced text.`
+[^1]: This is the referenced text.
+
+### Referenced text (Multiple lines)
+```
+[^2]: Add 2 spaces at the start of each new line.
+  This lets you write footnotes that span multiple lines.
+```
+[^2]: Add 2 spaces at the start of each new line.
+  This lets you write footnotes that span multiple lines.
+
+### Referenced text (Named)
+`[^note]: This is the referenced text.`
+[^note]: Named footnotes still appear as numbers, but can make it easier to identify and link references.
+
+---
+## Embed image
 ![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 
-This is a <mark>highlighted quote</mark>.
+## Mermaid diagrams
 
-this is ==highlighted quote==.
-
-@test
-
-test@email.com
-
-I :heart: Hugo :smile:
 
 ```mermaid
 graph TD;
@@ -149,18 +245,6 @@ graph TD;
   C-->D;
 ```
 
-| Style                  | Syntax                 | Example                                  | Output                                 |
-| ---------------------- | ---------------------- | ---------------------------------------- | -------------------------------------- |
-| Bold                   | `** **` or `__ __`     | `**Bold text**`                          | **Bold text**                          |
-| Italic                 | `* *` or `_ _`         | `*Italic text*`                          | _Italic text_                          |
-| Strikethrough          | `~~ ~~`                | `~~Striked out text~~`                   | ~~Striked out text~~                   |
-| Highlight              | `== ==`                | `==Highlighted text==`                   | ==Highlighted text==                   |
-| Bold and nested italic | `** **` and `_ _`      | `**Bold text and _nested italic_ text**` | **Bold text and _nested italic_ text** |
-| Bold and italic        | `*** ***` or `___ ___` | `___Bold and italic text___`             | ___Bold and italic text___             |
-| Bold and italic        | `*** ***` or `___ ___` | `***Bold and italic text***`             | ***Bold and italic text***             |
-> Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
-
-\- Doug Engelbart, 1961
 
 ```mermaid
 graph TD
@@ -169,55 +253,12 @@ Biology --> Chemistry
 
 class Biology,Chemistry internal-link;
 ```
-another
-```mermaid
-graph TD
 
-A[Biology]
-B[Chemistry]
-
-A --> B
-
-class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z internal-link;
-```
-...
-add this to your MD yaml:
-```markdown
 ---
-config:
-  kanban:
-    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'
----
-```
 
 ```mermaid
 pie title NETFLIX
-         "Time spent looking for movie" : 90
-         "Time spent watching it" : 10
+         "Searching" : 90
+         "Watching" : 10
 
 ```
-
-```mermaid
-kanban
-  Todo
-    [Create Documentation]
-    docs[Create Blog about the new diagram]
-  [In progress]
-    id6[Create renderer so that it works in all cases. We also add som extra text here for testing purposes. And some more just for the extra flare.]
-  id9[Ready for deploy]
-    id8[Design grammar]@{ assigned: 'knsv' }
-  id10[Ready for test]
-    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }
-    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }
-  id11[Done]
-    id5[define getData]
-    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}
-    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }
-
-  id12[Can't reproduce]
-    id3[Weird flickering in Firefox]
-```
-
-
-
-[^1]: Footnote example.
