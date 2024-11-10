@@ -40,6 +40,18 @@ followed by some text
 ```
 
 ---
+## Tables
+
+| Left-aligned text | Center-aligned text | Right-aligned text |
+| :---------------- | :-----------------: | -----------------: |
+| Content           |       Content       |            Content |
+
+| First column                                                                      | Second column                                                                                                      |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [Internal links](https://help.obsidian.md/Linking+notes+and+files/Internal+links) | Link to a file _within_ your **vault**.                                                                            |
+| [Embed files](https://help.obsidian.md/Linking+notes+and+files/Embed+files)       | ![Engelbart.jpg](https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/Engelbart.jpg) |
+
+---
 ## Styling
 
 | Style                  | Syntax                 | Example                                  | Output                                 |
