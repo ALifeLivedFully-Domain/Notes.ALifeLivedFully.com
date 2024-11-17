@@ -19,16 +19,18 @@ date:
 ---
 ## 01 - Projects
 Projects that i have been working on lately:
-- Programming
-	- Static Site generator websites
-		- [My website](https://ALifeLivedFully.com)
-			- [My links](https://Links.ALifeLivedFully.com)
-			- [My notes](https://Notes.ALifeLivedFully.com)
-		- [Uptown Micros](https://github.com/ALifeLivedFully/Uptown-Micros)
-		- Moneyshots
-		- Nifty Miners
-- Sustainability projects
-	- Biogas Digester
+- [My website](https://ALifeLivedFully.com)
+	- [My links](https://Links.ALifeLivedFully.com)
+	- [My notes](https://Notes.ALifeLivedFully.com)
+- [Uptown Micros](https://github.com/ALifeLivedFully/Uptown-Micros)
+- Bicycle camper
+- Biogas Digester
+
+%%
+- RV Solar system
+- Water catchment system
+- Water re-circulation system
+%%
 
 ---
 ## 02 - Areas
@@ -36,6 +38,7 @@ Areas of my life include but are not limited to:
 - Work
 	- I.A.T.S.E - International alliance of theatrical stage employees
 	- Spark-Y
+	- Electrician apprenticeship
 	- [[#Archives]]
 - Education
 	- CompTIA Certifications
@@ -70,6 +73,11 @@ Areas of my life include but are not limited to:
 ---
 ## 03 - Resources
 This section covers quotes, highlighted sections, and notes from media like books, videos, articles, etc.
+
+- Books
+	- 1984
+	- How to lie with statistics
+	- etc...
 
 ---
 ## 99 - Archives
