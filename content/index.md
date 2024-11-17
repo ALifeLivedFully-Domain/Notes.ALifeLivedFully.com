@@ -9,7 +9,39 @@ date:
 ---
 # Primary dashboard
 
-## Certifications and training
+
+
+
+
+
+
+
+---
+## 01 - Projects
+Projects that i have been working on lately:
+- Programming
+	- Static Site generator websites
+		- [My website](https://ALifeLivedFully.com)
+			- [My links](https://Links.ALifeLivedFully.com)
+			- [My notes](https://Notes.ALifeLivedFully.com)
+		- [Uptown Micros](https://github.com/ALifeLivedFully/Uptown-Micros)
+		- Moneyshots
+		- Nifty Miners
+- Sustainability projects
+	- Biogas Digester
+
+---
+## 02 - Areas
+Areas of my life include but are not limited to:
+- Work
+	- I.A.T.S.E - International alliance of theatrical stage employees
+	- Spark-Y
+	- [[#Archives]]
+- Education
+	- CompTIA Certifications
+
+
+### Certifications and training
 - ⚕️ Healthcare
 	 - CNA - Certified nursing assistant
 	 - PCA - Personal Care assistant
@@ -29,8 +61,20 @@ date:
 	- Covid vaccinations
 	- Permit to purchase
 	- Permit to carry
-- ⏳ Work in progress
-	- CDL - Commercial drivers license
-	- Electrical apprenticeship
-	- Level 1 teaching certification
 
+#### Work in progress certifications
+- CDL - Commercial drivers license
+- Electrical apprenticeship
+- Level 1 teaching certification
+
+---
+## 03 - Resources
+This section covers quotes, highlighted sections, and notes from media like books, videos, articles, etc.
+
+---
+## 99 - Archives
+Details about Archives
+
+- Work
+	- Foss swim school
+	- 
