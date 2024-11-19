@@ -34,6 +34,10 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDONKeHbs4CkBDe',
       }
     }),
+
+    // Customized to include explorer and table of contents on mobile
+    Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   footer: Component.Footer({
     links: {
