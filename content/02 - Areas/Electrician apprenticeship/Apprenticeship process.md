@@ -1,14 +1,14 @@
-
---- 
+ 
 ### Apply
 - [ ] Complete [$45 online application form](https://secure2.tradeschoolinc.com/v5/jatc110-org/applications/index.php).
 - [ ] Complete the Personal Experience Form (PEF). (it would be emailed to you after completing application)
 - [ ] Provide a completed official High School transcript or an official GED (My GED is in storage at Miranda's parents house. Scan it using phone.)
 - [ ] Provide a valid Driver’s License copy. (Located in wallet. Scan it using phone.)
 - [ ] Provide ONE Letter of Recommendation.
-	- Grandpa (Former Electrician)
-	- Mom (Masters degree)
-	- Megan's husband (Plumber)
+
+- Grandpa (Former Electrician)
+- Mom (Masters degree)
+- Megan's husband (Plumber)
 ---
 ### GAN Aptitude test
 The GAN Aptitude Battery was created to assess basic math, reading, and spatial skills
