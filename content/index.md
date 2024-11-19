@@ -18,19 +18,20 @@ date:
 
 ---
 ## 01 - Projects
-Projects that i have been working on lately:
+
+
+**Project notes:**
 - [My website](https://ALifeLivedFully.com)
 	- [My links](https://Links.ALifeLivedFully.com)
 	- [My notes](https://Notes.ALifeLivedFully.com)
 - [Uptown Micros](https://github.com/ALifeLivedFully/Uptown-Micros)
-- Bicycle camper
+- [Bicycle camper](obsidian://open?vault=content&file=01%20-%20Projects%2FBicycle%20camper%2FNomad-bicycle-camper-plans.pdf)
 - Biogas Digester
 
-%%
+**Project ideas:**
 - RV Solar system
 - Water catchment system
 - Water re-circulation system
-%%
 
 ---
 ## 02 - Areas
@@ -39,7 +40,6 @@ Areas of my life include but are not limited to:
 	- I.A.T.S.E - International alliance of theatrical stage employees
 	- Spark-Y
 	- Electrician apprenticeship
-	- [[#Archives]]
 - Education
 	- CompTIA Certifications
 
@@ -78,6 +78,10 @@ This section covers quotes, highlighted sections, and notes from media like book
 	- 1984
 	- How to lie with statistics
 	- etc...
+- Movies
+	- Interstellar
+- TV Shows
+- Articles
 
 ---
 ## 99 - Archives

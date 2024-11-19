@@ -1,0 +1,4 @@
+- One Time Pad
+- Anarchy
+- Firearms
+- self defense

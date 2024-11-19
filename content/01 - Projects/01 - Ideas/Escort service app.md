@@ -1,0 +1,3 @@
+- Connect escorts and clients
+- reputation scores and reviews etc to avoid fake accounts or bad acto
+- 
