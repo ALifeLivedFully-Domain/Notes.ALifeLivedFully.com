@@ -36,15 +36,22 @@ date:
 ---
 ## 02 - Areas
 Areas of my life include but are not limited to:
-- Work
+- Work (Paycheck included)
 	- I.A.T.S.E - International alliance of theatrical stage employees
 	- Spark-Y
 	- Electrician apprenticeship
-- Education
+- Education (Paycheck **Not** included)
 	- CompTIA Certifications
+	- Forklift operators license
+- Religion
+	- Judaism
+- Health
+- Security Awareness
+	- [Firearm training]
+	- terrain analysis
 
 
-### Certifications and training
+### Certifications and training achieved
 - ⚕️ Healthcare
 	 - CNA - Certified nursing assistant
 	 - PCA - Personal Care assistant
@@ -82,6 +89,7 @@ This section covers quotes, highlighted sections, and notes from media like book
 	- Interstellar
 - TV Shows
 - Articles
+- 
 
 ---
 ## 99 - Archives
