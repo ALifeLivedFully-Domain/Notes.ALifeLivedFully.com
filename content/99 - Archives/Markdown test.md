@@ -140,78 +140,204 @@ var test = function this_is(){
 #### Fold-able (Default to folded)
 > [!faq]- Are callouts foldable?
 > Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+> ```
+> > [!faq]- Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+> ```
 
 #### Fold-able (Default to unfolded)
 > [!faq]+ Are callouts foldable?
 > Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+> ```
+> > [!faq]+ Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+> ```
+
 
 #### Custom names
 > [!tip] Callouts can have custom titles
 > Like this one.
+> ```
+> [!tip] Callouts can have custom titles
+> Like this one.
+> ```
 
 ### Call-out types
 #### Note
 > [!note]
+> ```
+> > [!note]
 > Lorem ipsum dolor sit amet
+> ```
 
-#### Abstract
+#### Abstract, Summary, TLDR
 > [!abstract]
+> ```
+> > [!abstract]
 > Lorem ipsum dolor sit amet
+> ```
 
-Aliases: summary, tldr
+> [!summary]
+> ```
+> > [!summary]
+> Lorem ipsum dolor sit amet
+> ```
+
+> [!tldr]
+> ```
+> > [!tldr]
+> Lorem ipsum dolor sit amet
+> ```
 
 #### Info
 > [!info]
+> ```
+> > [!info]
 > Lorem ipsum dolor sit amet
-
+> ```
 
 #### Todo
 > [!todo]
+> ```
+> > [!todo]
 > Lorem ipsum dolor sit amet
+> ```
 
-#### Tip
+#### Tip, Hint, Important
 > [!tip]
+> ```
+> > [!tip]
 > Lorem ipsum dolor sit amet
+> ```
 
-Aliases: hint, important
-#### Success
+> [!hint]
+> ```
+> > [!hint]
+> Lorem ipsum dolor sit amet
+> ```
+
+> [!important]
+> ```
+> > [!important]
+> Lorem ipsum dolor sit amet
+> ```
+
+#### Success, Check, Done
 > [!success]
+> ```
+> > [!success]
 > Lorem ipsum dolor sit amet
+> ```
 
-Aliases: check, done
-#### Question
+> [!check]
+> ```
+> > [!check]
+> Lorem ipsum dolor sit amet
+> ```
+
+> [!done]
+> ```
+> > [!done]
+> Lorem ipsum dolor sit amet
+> ```
+
+#### Question, Help, FAQ
 > [!question]
+> ```
+> > [!question]
 > Lorem ipsum dolor sit amet
+> ```
 
-Aliases: help, faq
-#### Warning
+> [!help]
+> ```
+> > [!help]
+> Lorem ipsum dolor sit amet
+> ```
+
+> [!faq]
+> ```
+> > [!faq]
+> Lorem ipsum dolor sit amet
+> ```
+
+#### Warning, Caution, Attention
 > [!warning]
+> ```
+> > [!warning]
 > Lorem ipsum dolor sit amet
+> ```
 
-Aliases: caution, attention
-#### Failure
-> [!failure]
+> [!caution]
+> ```
+> > [!caution]
 > Lorem ipsum dolor sit amet
+> ```
 
-Aliases: fail, missing
-#### Danger
+> [!attention]
+> ```
+> > [!attention]
+> Lorem ipsum dolor sit amet
+> ```
+
+#### Failure, Fail, Missing
+> [!Failure]
+> ```
+> > [!failure]
+> Lorem ipsum dolor sit amet
+> ```
+
+> [!fail]
+> ```
+> > [!fail]
+> Lorem ipsum dolor sit amet
+> ```
+
+> [!missing]
+> ```
+> > [!missing]
+> Lorem ipsum dolor sit amet
+> ```
+
+#### Danger, Error
 > [!danger]
+> ```
+> > [!danger]
 > Lorem ipsum dolor sit amet
+> ```
 
-Alias: error
+> [!error]
+> ```
+> > [!error]
+> Lorem ipsum dolor sit amet
+> ```
+
 #### Bug
 > [!bug]
+> ```
+> > [!bug]
 > Lorem ipsum dolor sit amet
+> ```
 
 #### Example
 > [!example]
+> ```
+> > [!example]
 > Lorem ipsum dolor sit amet
+> ```
 
-#### Quote
+#### Quote, Cite
 > [!quote]
+> ```
+> > [!quote]
 > Lorem ipsum dolor sit amet
+> ```
 
-Alias: cite
+> [!cite]
+> ```
+> > [!cite]
+> Lorem ipsum dolor sit amet
+> ```
+
 
 ---
 

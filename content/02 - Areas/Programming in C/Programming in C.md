@@ -74,3 +74,27 @@ int main() {
 `%s` tells it to insert a string there, it gets the data from the `yourName` variable.
 
 ## Data types - in C
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+  
+int main() {
+	int yourAge = 26;         // %d
+	char yourGrade = 'A';     // %c
+	double pi = 3.14;         // %f
+	char yourName[] = "Dani"; // %s
+	  
+	printf("Hello %s! \n", yourName);
+	printf("You are %d years old. \n", yourAge);
+	printf("The value of Pi is: %f. \n", pi);
+	printf("and your grade is %c. \n", yourGrade);
+	
+	return 0;
+}
+```
+
+- Int
+- Double
+- Char
+	- Char array (String)

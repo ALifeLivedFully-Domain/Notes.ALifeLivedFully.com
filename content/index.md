@@ -8,7 +8,10 @@ aliases:
 date:
 ---
 # Primary dashboard
+![My avatar](https://avatars.githubusercontent.com/u/96098717?v=4)
 
+>[!abstract]
+>This website was made for learning in public, as well as to open source my notes, ideas, and life.
 
 
 
@@ -29,6 +32,8 @@ date:
 - [[Biogas Digester]]
 - RV Solar system
 - [[My Cozy Game]]
+- Room 107 SOPs
+- Aquaponics lesson(s) for K-5
 
 **Project ideas:**
 - Water catchment system
@@ -74,6 +79,14 @@ Areas of my life which need ongoing maintenance/work.
 - [[Electrician Apprenticeship| Electrical apprenticeship]]
 - Level 1 teaching certification
 
+### Programming
+- [[Programming in C]]
+- Programming in Rust
+- Programming in Javascript
+
+### Security Awareness
+- [[Firearm training for self defense]]
+- [[Terrain analysis]]
 
 ### Religion
 - [[Judaism]]
@@ -82,11 +95,6 @@ Areas of my life which need ongoing maintenance/work.
 - Fitness
 - medication
 - procedures
-
-### Security Awareness
-- [[Firearm training for self defense]]
-- [[Terrain analysis]]
-
 
 ---
 ## 03 - Resources
@@ -100,6 +108,9 @@ This section covers quotes, highlighted sections, and notes from media like book
 	- Interstellar
 - TV Shows
 	- Futurama
+- YouTube
+	- [["Hack your brain with elaborate coping mechanisms" by NoBoilerplate]]
+	- [["The Cult of Done" by NoBoilerplate]]
 - Music
 - Articles
 - Lectures
