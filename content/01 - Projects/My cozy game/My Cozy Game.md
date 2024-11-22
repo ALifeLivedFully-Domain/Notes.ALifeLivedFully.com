@@ -13,4 +13,11 @@ Super basic checklist:
 - [x] create a pause menu
 - [ ] make functional doors (change map when door is activated)
 - [ ]  create a start menu
-- [ ] 
+
+>[!warning]
+>this note needs to be updated
+
+>[!todo]
+>- [ ] update the note
+>- [ ] upload project to github
+

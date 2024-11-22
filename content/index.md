@@ -25,33 +25,25 @@ date:
 	- [My links](https://Links.ALifeLivedFully.com)
 	- [My notes](https://Notes.ALifeLivedFully.com)
 - [Uptown Micros](https://github.com/ALifeLivedFully/Uptown-Micros)
-- [Bicycle camper](obsidian://open?vault=content&file=01%20-%20Projects%2FBicycle%20camper%2FNomad-bicycle-camper-plans.pdf)
-- Biogas Digester
+- [[Bicycle camper]]
+- [[Biogas Digester]]
+- RV Solar system
+- [[My Cozy Game]]
 
 **Project ideas:**
-- RV Solar system
 - Water catchment system
 - Water re-circulation system
 
 ---
 ## 02 - Areas
-Areas of my life include but are not limited to:
-- Work (Paycheck included)
-	- I.A.T.S.E - International alliance of theatrical stage employees
-	- Spark-Y
-	- Electrician apprenticeship
-- Education (Paycheck **Not** included)
-	- CompTIA Certifications
-	- Forklift operators license
-- Religion
-	- Judaism
-- Health
-- Security Awareness
-	- [Firearm training]
-	- terrain analysis
+Areas of my life which need ongoing maintenance/work.
 
+### Work
+- I.A.T.S.E - International alliance of theatrical stage employees
+- Spark-Y
+- [[Electrician Apprenticeship]]
 
-### Certifications and training achieved
+### Certifications, Permits, Licenses, etc
 - ⚕️ Healthcare
 	 - CNA - Certified nursing assistant
 	 - PCA - Personal Care assistant
@@ -74,12 +66,31 @@ Areas of my life include but are not limited to:
 
 #### Work in progress certifications
 - CDL - Commercial drivers license
-- Electrical apprenticeship
+- Ham Radio Operators License
+- CompTIA certifications
+	- Security+
+	- Network+
+	- Linux+
+- [[Electrician Apprenticeship| Electrical apprenticeship]]
 - Level 1 teaching certification
+
+
+### Religion
+- [[Judaism]]
+
+### Health
+- Fitness
+- medication
+- procedures
+
+### Security Awareness
+- [[Firearm training for self defense]]
+- [[Terrain analysis]]
+
 
 ---
 ## 03 - Resources
-This section covers quotes, highlighted sections, and notes from media like books, videos, articles, etc.
+This section covers quotes, highlighted sections, and notes from media like books, videos, articles, etc. 
 
 - Books
 	- 1984
@@ -88,12 +99,14 @@ This section covers quotes, highlighted sections, and notes from media like book
 - Movies
 	- Interstellar
 - TV Shows
+	- Futurama
+- Music
 - Articles
-- 
+- Lectures
 
 ---
 ## 99 - Archives
-Details about Archives
+Archives is all the stuff i dont need day to day anymore but dont have a reason to delete.
 
 - Work
 	- Foss swim school
