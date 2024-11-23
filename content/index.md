@@ -47,7 +47,7 @@ Areas of my life which need ongoing maintenance/work.
 - Spark-Y
 - [[Electrician Apprenticeship]]
 
-### Certifications, Permits, Licenses, etc
+### Current Certifications, Permits, Licenses, etc
 - ⚕️ Healthcare
 	 - CNA - Certified nursing assistant
 	 - PCA - Personal Care assistant
@@ -68,15 +68,23 @@ Areas of my life which need ongoing maintenance/work.
 	- Permit to purchase
 	- Permit to carry
 
-#### Work in progress certifications
-- CDL - Commercial drivers license
-- Ham Radio Operators License
-- CompTIA certifications
-	- Security+
-	- Network+
-	- Linux+
-- [[Electrician Apprenticeship| Electrical apprenticeship]]
-- Level 1 teaching certification
+### Work in progress certifications
+- ⚕️ Healthcare
+	- EMT
+	- X-Ray Tech
+- 🔧 Blue Collar Trades
+	- CDL - Commercial drivers license
+	- [[Electrician Apprenticeship| Electrical apprenticeship]]
+- 🤖 Tech
+	- CompTIA certifications
+		- Security+
+		- Network+
+		- Linux+
+	- CCNA
+- 🚗 General
+	- Ham Radio Operators License
+- 🍎 Education
+	- Level 1 teaching certification
 
 ### Programming
 - [[Programming in C]]
