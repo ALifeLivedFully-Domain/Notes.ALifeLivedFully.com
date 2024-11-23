@@ -98,3 +98,27 @@ int main() {
 - Double
 - Char
 	- Char array (String)
+
+## Working with numbers - in C
+```C
+#include <stdio.h>
+#include <stdlib.h>
+  
+int main() {
+	
+	return 0;
+}
+```
+
+- Math done with 2 integers will return an integer even if it "should" return a decimal
+	- Eg. 5 / 4 = 1 instead of 1.25
+- math done with any floats will return a float
+	- Eg. 1.25 + 1 = 2.25
+
+| Function name | Description                                |
+| ------------- | ------------------------------------------ |
+| sqrt(16)      | Square root                                |
+| ceil(1.4)     | Round to ceiling                           |
+| floor(1.4)    | Round to floor                             |
+| pow(4, 3)     | returns the value of _x_ to the power of y |
+|               |                                            |

@@ -22,7 +22,6 @@ date:
 ---
 ## 01 - Projects
 
-
 **Project notes:**
 - [My website](https://ALifeLivedFully.com)
 	- [My links](https://Links.ALifeLivedFully.com)
