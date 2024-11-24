@@ -32,7 +32,7 @@ date:
 - RV Solar system
 - [[My Cozy Game]]
 - Room 107 SOPs
-- Aquaponics lesson(s) for K-5
+- [[Aquaponics Lesson Plans for Grades K-5]]
 
 **Project ideas:**
 - Water catchment system
