@@ -16,7 +16,7 @@ I will be following along with a [FreeCodeCamp.org Video on C](https://www.youtu
 ---
 
 ## Hello world - in C
-```C
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -35,7 +35,7 @@ int main() {
 [Timestamp= 00:09:04](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=544s)
 
 ## Drawing ASCII shape - in C
-```C
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
