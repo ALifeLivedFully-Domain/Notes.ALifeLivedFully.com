@@ -52,14 +52,11 @@ Explain that aquaponics is a system where fish and plants work together to help 
 
 ```mermaid
 graph TB
-A[Fish Tank] -->|Water flows| B[Grow Bed]
-B -->|Water flows| C[Water Pump]
-C -->|Pumps water to tank| A
-B -->|Plants grow| D[Plants]
-A -->|Fish produce waste| E[Beneficial Bacteria]
-E -->|Nitrification process| B
-D -->|Plants absorb nutrients| B
-C -->|Circulates water| B
+A[Fish Tank] -->|Water with benificial bacteria| B
+B((Pump)) --> C
+C(Grow Bed) --> D
+D{Plants} -->|Filter water| A
+E{Fish} -->|Excrete waste| A
 
 ```
 
