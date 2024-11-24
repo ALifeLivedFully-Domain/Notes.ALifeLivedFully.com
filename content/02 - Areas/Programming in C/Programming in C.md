@@ -53,7 +53,7 @@ pretty self explanatory, just using the `printf` function to print out an ASCII 
 [Timestamp= 00:12:51](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=771s)
 
 ## Variables - in C
-```C
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -75,7 +75,7 @@ int main() {
 
 ## Data types - in C
 
-```C
+```c
 #include <stdio.h>
 #include <stdlib.h>
   
@@ -100,7 +100,7 @@ int main() {
 	- Char array (String)
 
 ## Working with numbers - in C
-```C
+```c
 #include <stdio.h>
 #include <stdlib.h>
   
