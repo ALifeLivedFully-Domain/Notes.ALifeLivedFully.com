@@ -1,5 +1,5 @@
 # My experience programming in C
-today i decided to start programming in the C programming language. the reason i decided to learn C is that i feel like i can get a greater understanding of how computers work and be more prepared for [Programming in Rust].
+today i decided to start relearning programming in the C programming language. the reason i decided to learn C is that i feel like i can get a greater understanding of how computers work and be more prepared for [Programming in Rust].
 
 I have been using nix dev/shell environments to manage dependencies lately.
 
@@ -11,6 +11,8 @@ I have been using nix dev/shell environments to manage dependencies lately.
 
 I will be following along with a [FreeCodeCamp.org Video on C](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 
+>[!todo]
+>- i skipped the madlibs project cause i have done all the things required for it and dont think it will teach me anything and i wasnt feeling interested in completing it.
 
 
 ---
@@ -105,6 +107,16 @@ int main() {
 #include <stdlib.h>
   
 int main() {
+
+	// Square root
+	printf("%f", sqrt(16));
+
+	// Rounding to floor/ceiling
+	printf("%f", ceil(1.4));  
+	printf("%f", floor(1.4));
+
+	// Power of
+	printf("%f", pow(4, 3));
 	
 	return 0;
 }
@@ -121,4 +133,166 @@ int main() {
 | ceil(1.4)     | Round to ceiling                           |
 | floor(1.4)    | Round to floor                             |
 | pow(4, 3)     | returns the value of _x_ to the power of y |
-|               |                                            |
+
+## Constants - in C
+```c
+#include <stdio.h>
+#include <stdlib.h>
+  
+int main() {
+	// This code will refuse to compile due to trying to rewrite a read only variable
+
+	// Set the vars (able to change)
+	int yourAge = 26;         // %d
+	char yourGrade = 'A';     // %c
+	double pi = 3.14;         // %f
+	char yourName[] = "Dani"; // %s
+
+	// Set the constant vars (Unable to change)
+	const int constAge = 26;         // %d
+	const char constGrade = 'A';     // %c
+	const double constPi = 3.14;     // %f
+	const char constName[] = "Dani"; // %s
+
+	// Print the vars
+	printf("Hello %s! \n", yourName);
+	printf("You are %d years old. \n", yourAge);
+	printf("The value of Pi is: %f. \n", pi);
+	printf("and your grade is %c. \n", yourGrade);
+
+	// Print the const vars
+	printf("Hello %s! \n", constName);
+	printf("You are %d years old. \n", constAge);
+	printf("The value of Pi is: %f. \n", constPi);
+	printf("and your grade is %c. \n", constGrade);
+
+	// Modify the vars
+	yourAge = 62;         // %d
+	yourGrade = 'F';      // %c
+	pi = 3.2;            // %f
+	yourName = "Not Dani";    // %s
+
+	// Try to modify the constant vars
+	constAge = 46;         // %d
+	constGrade = 'B';      // %c
+	constPi = 3.9;        // %f
+	constName = "Also not Dani";    // %s
+
+	// Print the vars agian
+	printf("Hello %s! \n", yourName);
+	printf("You are %d years old. \n", yourAge);
+	printf("The value of Pi is: %f. \n", pi);
+	printf("and your grade is %c. \n", yourGrade);
+
+	// Print the const vars again
+	printf("Hello %s! \n", constName);
+	printf("You are %d years old. \n", constAge);
+	printf("The value of Pi is: %f. \n", constPi);
+	printf("and your grade is %c. \n", constGrade);
+	
+	return 0;
+}
+```
+
+- Code like shown above **Refuses to compile** since you cant rewrite a const
+- constants are good for certain known constants like the speed of light, pi, etc.
+- Const vars are commonly written in **ALL CAPS**
+
+## Getting user input - in C
+```c
+#include <stdio.h>
+#include <stdlib.h>
+  
+int main() {
+	int age; // printf: %d | scanf: %d
+	char grade; // printf: %c | scanf: %c
+	double gpa; // printf: %f | scanf: %lf
+	char name[20]; // printf: %s | scanf: %s
+	
+	// you have to specify how many chars to allocate memory for with strings
+	// gotta use a pointer to reference the memory address
+	
+	printf("Enter your name: ");
+	fgets(name, 20, stdin);
+	// scanf("%s", name); // strings dont need pointers in scanf... Why?
+	printf("you entered: %s \n", name);
+	
+	printf("Enter your grade: ");
+	scanf("%c", &grade);
+	printf("you entered: %c \n", grade);
+	  
+	printf("Enter your age: ");
+	scanf("%d", &age);
+	printf("you entered: %d \n", age);
+	  
+	printf("Enter gpa: ");
+	scanf("%lf", &gpa); // floats are called %lf in scanf... Why?
+	printf("you entered: %f \n", gpa);
+	  
+	return 0;
+}
+```
+
+- `scanf` function works similar to to the `printf` function but in reverse
+- `fgets` is like scanf but you can include spaces but cant use it for floats, ints, etc
+- `fgets` enter key will insert a new line and then end entry so your var will include a new line character
+- %lf instead of %f inside of the scanf function
+- you need to use a pointer to reference the memory address but not for strings
+- i was getting this warning for the above code: 
+	`warning: ignoring return value of ‘scanf’ declared with attribute ‘warn_unused_result’`
+
+
+## MadLibs - in C
+this is a pretty simple project recreating a madlib using C using the techniques we have already covered. i plan to do it later as its kinda uninteresting to me currently.
+```c
+
+```
+
+## Arrays - in C
+```c
+#include <stdio.h>
+#include <stdlib.h>
+  
+int main() {
+	int someNums[] = {1, 2, 4, 8, 16, 32, 64, 128};
+	char name[] = "Dani";
+	int search;
+	printf("choose an index: ");
+	scanf("%d", &search);
+	printf("index number %d holds the following data: %d \n", search, someNums[search]);
+	printf("The first letter of your name is: %c", name[0]); // Strings are just arrays!
+	  
+	return 0;
+}
+```
+- Learning about arrays explains a bit more why strings are kinda funky sometimes. **strings are just arrays** of the char type so you have to treat them as such.
+- arrays are kinda fun! remind me of things like CSV files, and working with databases in php/mysql
+
+## Functions - in C
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    helloWorld();
+    helloUser("Dani", 26);
+
+    return 0;
+}
+
+void helloWorld() {
+    printf("Hello world! \n");
+}
+
+void helloUser(char userName[], int userAge) {
+    printf("Hello %s! you are %d years old.", userName, userAge);
+}
+```
+Super excited to work on some functions in C! unlocking new parts of the superpower!
+- works basically how i thought it would.
+- not exciting by itself obviously but the possibilities are exciting.
+
+## Function return types - in C
+```c
+#include
+```
