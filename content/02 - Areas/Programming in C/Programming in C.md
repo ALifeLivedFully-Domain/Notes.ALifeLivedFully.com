@@ -292,7 +292,18 @@ Super excited to work on some functions in C! unlocking new parts of the superpo
 - works basically how i thought it would.
 - not exciting by itself obviously but the possibilities are exciting.
 
-## Function return types - in C
+## Function return statements - in C
 ```c
-#include
+#include <stdio.h>
+#include <stdlib.h>
+
+int triangleMath() {
+	
+}
+int main() {
+    helloWorld();
+    helloUser("Dani", 26);
+
+    return 0;
+}
 ```
