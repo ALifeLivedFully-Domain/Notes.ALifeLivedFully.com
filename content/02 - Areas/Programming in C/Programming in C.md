@@ -372,3 +372,4 @@ int main() {
 | &&   |         | And                             |
 | \|\| |         | Or                              |
 | !    |         | Not                             |
+| !($) |         | Negation opperator              |

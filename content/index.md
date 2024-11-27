@@ -31,12 +31,10 @@ date:
 - [[Biogas Digester]]
 - RV Solar system
 - [[My Cozy Game]]
-- Room 107 SOPs
-- [[Aquaponics Lesson Plans for Grades K-5]]
 
 **Project ideas:**
 - Water catchment system
-- Water re-circulation system
+- Water filtration and re-circulation system
 
 ---
 ## 02 - Areas
@@ -44,7 +42,12 @@ Areas of my life which need ongoing maintenance/work.
 
 ### Work
 - I.A.T.S.E - International alliance of theatrical stage employees
+	- Forklift training
+	- Rigger training
+	- wardrobe training
 - Spark-Y
+	- Room 107 SOPs
+	- [[Aquaponics Lesson Plans for Grades K-5]]
 - [[Electrician Apprenticeship]]
 
 ### Current Certifications, Permits, Licenses, etc

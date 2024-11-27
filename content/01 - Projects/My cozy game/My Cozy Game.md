@@ -19,5 +19,6 @@ Super basic checklist:
 
 >[!todo]
 >- [ ] update the note
+>- [ ] make a game design document to get organized
 >- [ ] upload project to github
 
