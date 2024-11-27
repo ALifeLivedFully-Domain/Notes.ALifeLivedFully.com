@@ -297,13 +297,78 @@ Super excited to work on some functions in C! unlocking new parts of the superpo
 #include <stdio.h>
 #include <stdlib.h>
 
-int triangleMath() {
-	
+double cube(double num) {
+	return num * num * num;
 }
-int main() {
-    helloWorld();
-    helloUser("Dani", 26);
 
+int main() {
+    double myNum = 7.0;
+    printf("%f cubed is: %f", myNum, cube(myNum));
     return 0;
 }
 ```
+- the return type goes right before the function name
+- don't forget to add a return statement to the function!
+- seems like the return type of the main function is `int`,i wonder if its just convention or makes an actual difference.
+
+## If statements - in C
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int max(int num1, int num2) {
+    int result;
+    if (num1 > num2) {
+        result = num1;
+    }
+    else {
+        result = num2;
+    }
+    return result;
+}
+
+int main() {
+    int num1 = 8;
+    int num2 = 9;
+    printf("the bigger number is: %d", max(num1, num2));
+}
+```
+- i have heard that for most use cases a switch statement is better performing/faster?
+
+### Else if statements
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int maxOf3(int num1, int num2, int num3) {
+    int result;
+    if (num1 >= num2 && num1 >= num3) {
+        result = num1;
+    }
+    else if (num2 >= num1 && num2 >= num3) {
+        result = num2;
+    }
+    else {
+        result = num3;
+    }
+    return result;
+}
+
+int main() {
+    printf("The max number is: %d", maxOf3(2, 4, 8));
+}
+```
+- why is a switch statement faster/better?
+
+## Logical operators - in C
+| Sign | Example | Description                     |
+| ---- | ------- | ------------------------------- |
+| >    |         | "Greater-than" sign             |
+| <    |         | "Less than" sign                |
+| >=   |         | "Greater than or equal to" sign |
+| <=   |         | "Less than or equal to" sign    |
+| =    |         | set equal to                    |
+| ==   |         | compare if equal                |
+| &&   |         | And                             |
+| \|\| |         | Or                              |
+| !    |         | Not                             |
