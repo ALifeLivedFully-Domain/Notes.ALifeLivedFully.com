@@ -242,7 +242,7 @@ int main() {
 	`warning: ignoring return value of ‘scanf’ declared with attribute ‘warn_unused_result’`
 
 
-## MadLibs - in C
+## ⭐ MadLibs - in C
 this is a pretty simple project recreating a madlib using C using the techniques we have already covered. i plan to do it later as its kinda uninteresting to me currently.
 ```c
 
@@ -373,3 +373,180 @@ int main() {
 | \|\| |         | Or                              |
 | !    |         | Not                             |
 | !($) |         | Negation opperator              |
+
+## Switch statements - in C
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main () {
+    char grade = 'A';
+
+    switch (grade) {
+        case 'A':
+            printf("Great job!");
+            break;
+        case 'B':
+            printf("Good job!");
+            break;
+        case 'C':
+            printf("Good job.");
+            break;
+        case 'D':
+            printf("seems like we need to work on this more.");
+            break;
+        case 'F':
+            printf("See me after class please.");
+            break;
+        default:
+            printf("Invalid grade!");
+    }
+}
+```
+
+in the `case` where `grade` is equal to `A` print "Great job!"
+
+## Structs - in C
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+struct User {
+    char name[50];
+    int age;
+    double rating;
+};
+
+int main() {
+    struct User bobby;
+    strcpy(bobby.name, "Robert");
+    bobby.age = 23;
+    bobby.rating = 2.5;
+
+    printf("Username: bobby \n
+			Name: %s \n
+			Age: %d \n
+			Rating: %lf", bobby.name, bobby.age, bobby.rating);
+    return 0;
+}
+```
+structs seem pretty useful.
+
+## While loops
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    // While loop example
+    int index = 11;
+
+	printf("Index is starting at: %d \n", index);
+
+    while (index <= 10) {
+        printf("Index is: %d\n", index);
+        index++; // same as putting index = index + 1;
+    }
+
+	printf("Index is ending at: %d \n", index);
+
+    printf("Done!");
+
+    return 0;
+}
+```
+- checks if the condition is true and if its true it executes the code then checks the condition again
+- executes code **While** condition is true
+- a while loop doesnt need to keep track of iterations
+
+### Do-while loops
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    // While loop example
+    int index = 11;
+
+	printf("Index is starting at: %d \n", index);
+
+    do {
+        printf("Index is: %d\n", index);
+        index++; // same as putting index = index + 1;
+    } while (index <= 10);
+
+	printf("Index is ending at: %d \n", index);
+
+    printf("Done!");
+
+    return 0;
+}
+```
+- similar to a while loop but it excecutes the code first before checking the condition.
+- if the condition is false to start with, it will still execute the code 1 time to start before finally checking if the condition is true and executes code if condition is true(?)
+
+## ⭐ Guessing game
+```c
+#include <stdlib.h>
+#include <stdio.h>
+
+// Goal: create a game to guess the number until user gets it right or runs out of guesses
+
+int main() {
+    int secret = 7;
+    int maxNum = 10;
+    int minNum = 1;
+    int guessLimit = 3;
+    int guess;
+    int index = 1;
+
+    while (secret != guess && guessLimit >= index) {
+        printf("Guess %d/%d | Guess a number between 1 and 10: ", index, guessLimit);
+        scanf("%d", &guess);
+        if (guess < minNum || guess > maxNum) {
+            printf("Reminder that the secret number is between 1 and 10. \n");
+        }
+        if (guess == secret) {
+            printf("Congrats! you got it right on attempt #%d with %d attempts remaining! \n", index, (guessLimit - index));
+            break;
+        }
+        if (secret != guess && guessLimit <= index) {
+            printf("Sorry, you reached your guess limit! (Guess limit: %d) \n", guessLimit);
+            break;
+        }
+        else {
+	        // seems like this code would benifit from being a switch statement.
+            index++;
+        }
+    }
+}
+```
+- take input
+- while loop
+- if/else
+- etc
+- proud of the end result
+	- i had cleaner looking code earlier but kept changing stuff.
+
+## For loops - in C
+```c
+for (i = 1; i <= 5; i++) {
+	// Do something until test condition is met
+}
+```
+- similar idea to while loops but more explicit on incrementing an index
+
+for loop has 3 sections plus the code its executing:
+1. the initialization
+2. the test condition (a Boolean expression)
+3. the update statement
+	1. this can be any statement like `i--`, `i = i + 2`, `a=4`, etc
+4. code to execute each loop.
+
+## 2D arrays & nested loops - in C
+```c
+// do something
+```
+- sounds scary 👀
+- 
