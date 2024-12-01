@@ -537,7 +537,7 @@ for (i = 1; i <= 5; i++) {
 	// Do something until test condition is met
 }
 for (i = 0; i <= 8; i++) {
-	printf("%d", binaryCounting[i]);
+	printf("Position %d: %d \n", i, binaryCounting[i]);
 }
 ```
 - similar idea to while loops but more explicit on incrementing an index
@@ -549,16 +549,64 @@ for loop has 3 sections plus the code its executing:
 	1. this can be any statement like `i--`, `i = i + 2`, `a=4`, etc
 4. code to execute each loop.
 
-## 2D arrays & nested loops - in C
+## 2D arrays - in C
 ```c
-// do something
-```
-- sounds scary 👀 pretty sure its an array of arrays. meta.
-- 
+#include <stdlib.h>
+#include <stdio.h>
 
+int main() {
+    int nums[3][5] = {
+        {1, 2, 3, 4, 5},
+        {2, 4, 6, 8, 10},
+        {3, 6, 9, 12, 15}
+    }
+    printf("%d", nums[2][4]); // This will print out the number 15
+}
+```
+- Arrays where each item is an array
+- is an array of strings actually a 2D array since strings are array of characters?
+
+## Nested For loops - in C
+```c
+#include <stdlib.h>
+#include <stdio.h>
+
+int main() {
+    // 2D Array:
+    int nums[3][5] = {
+        {1, 2, 3, 4, 5},
+        {2, 4, 6, 8, 10},
+        {3, 6, 9, 12, 15}
+    };
+    int x;
+    int y;
+
+    // printf("%d", nums[2][4]); // This will print out the number 15
+
+    // Nested for loop:
+    for(x = 0; x < 3; x++) {
+        printf("\nArray %d: ", x);
+        for(y = 0; y < 5; y++) {
+            printf("%d ", nums[x][y]);
+        };
+    };
+}
+```
+
+Output:
+```text
+
+Array 0: 1 2 3 4 5 
+Array 1: 2 4 6 8 10 
+Array 2: 3 6 9 12 15
+```
+
+- really good for accessing data in a 2D array
+- maybe game loops? like the game delta progressing and then if you start taking damage lower health x amount of times? idk
 
 ## Memory addresses - in C
 ```c
 // do something
 ```
-- seems complicated..
+- Memory addresses are the part of C that intimidates me and i worry i wont be able to understand. we shall see...
+- 
