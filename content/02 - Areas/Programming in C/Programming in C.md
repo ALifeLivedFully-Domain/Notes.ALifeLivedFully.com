@@ -17,6 +17,44 @@ I will be following along with a [FreeCodeCamp.org Video on C](https://www.youtu
 
 ---
 
+## FAQ
+Here's the sections with simple info i always forget.
+
+### Logical operators - in C
+| Sign | Example | Description                     |
+| ---- | ------- | ------------------------------- |
+| >    |         | "Greater-than" sign             |
+| <    |         | "Less than" sign                |
+| >=   |         | "Greater than or equal to" sign |
+| <=   |         | "Less than or equal to" sign    |
+| =    |         | set equal to                    |
+| ==   |         | compare if equal                |
+| &&   |         | And                             |
+| \|\| |         | Or                              |
+| !    |         | Not                             |
+| !($) |         | Negation opperator              |
+
+### Variable types
+
+| Name      | Declare | Example Declaration     | Printf | Scanf |
+| --------- | ------- | ----------------------- | ------ | ----- |
+| Integer   | int     | `int yourAge = 26;`     | %d     | %d    |
+| Float     | double  | `double gpa = 2.75;`    | %f     | %lf   |
+| Character | char    | `char grade = 'A';`     | %c     | %c    |
+| String    | char[]  | `char name[] = "Dani";` | %s     | %s    |
+|           |         |                         |        |       |
+
+### Math functions
+
+| Function name | Description                                |
+| ------------- | ------------------------------------------ |
+| sqrt(16)      | Square root                                |
+| ceil(1.4)     | Round to ceiling                           |
+| floor(1.4)    | Round to floor                             |
+| pow(4, 3)     | returns the value of _x_ to the power of y |
+
+---
+
 ## Hello world - in C
 ```c
 #include <stdio.h>
@@ -126,13 +164,6 @@ int main() {
 	- Eg. 5 / 4 = 1 instead of 1.25
 - math done with any floats will return a float
 	- Eg. 1.25 + 1 = 2.25
-
-| Function name | Description                                |
-| ------------- | ------------------------------------------ |
-| sqrt(16)      | Square root                                |
-| ceil(1.4)     | Round to ceiling                           |
-| floor(1.4)    | Round to floor                             |
-| pow(4, 3)     | returns the value of _x_ to the power of y |
 
 ## Constants - in C
 ```c
@@ -359,20 +390,6 @@ int main() {
 }
 ```
 - why is a switch statement faster/better?
-
-## Logical operators - in C
-| Sign | Example | Description                     |
-| ---- | ------- | ------------------------------- |
-| >    |         | "Greater-than" sign             |
-| <    |         | "Less than" sign                |
-| >=   |         | "Greater than or equal to" sign |
-| <=   |         | "Less than or equal to" sign    |
-| =    |         | set equal to                    |
-| ==   |         | compare if equal                |
-| &&   |         | And                             |
-| \|\| |         | Or                              |
-| !    |         | Not                             |
-| !($) |         | Negation opperator              |
 
 ## Switch statements - in C
 ```c
