@@ -531,8 +531,13 @@ int main() {
 
 ## For loops - in C
 ```c
+int i;
+int binaryCounting[] = {1, 2, 4, 8, 16, 32, 64, 128}
 for (i = 1; i <= 5; i++) {
 	// Do something until test condition is met
+}
+for (i = 0; i <= 8; i++) {
+	printf("%d", binaryCounting[i]);
 }
 ```
 - similar idea to while loops but more explicit on incrementing an index
@@ -548,5 +553,12 @@ for loop has 3 sections plus the code its executing:
 ```c
 // do something
 ```
-- sounds scary 👀
+- sounds scary 👀 pretty sure its an array of arrays. meta.
 - 
+
+
+## Memory addresses - in C
+```c
+// do something
+```
+- seems complicated..
