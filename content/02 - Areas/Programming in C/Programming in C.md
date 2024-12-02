@@ -36,14 +36,19 @@ Here's the sections with simple info i always forget.
 
 ### Variable types
 
-| Name      | AKA            | Declare                   | Printf | Scanf |
-| --------- | -------------- | ------------------------- | ------ | ----- |
-| Integer   | Whole Number   | `int yourAge = 26;`       | %d     | %d    |
-| Float     | Decimal Number | `double gpa = 2.75;`      | %f     | %lf   |
-| Character | Character      | `char grade = 'A';`       | %c     | %c    |
-| String    | String         | `char name[] = "Dani";`   | %s     | %s    |
-| Pointer   | Memory address | `char * pGrade = &grade;` | %p     |       |
-|           |                |                           |        |       |
+| Name      | AKA            | Declare                                 | Printf | Scanf |
+| --------- | -------------- | --------------------------------------- | ------ | ----- |
+| Integer   | Whole Number   | `int yourAge = 26;`                     | %d     | %d    |
+| Float     | Decimal Number | `double gpa = 2.75;`                    | %f     | %lf   |
+| Character | Character      | `char grade = 'A';`                     | %c     | %c    |
+| String    | String         | `char name[] = "Dani";`                 | %s     | %s    |
+| Pointer   | Memory address | `char * pGrade = &grade;`               | %p     |       |
+| File      |                | `FILE * fileName = fopen("file.txt", )` |        |       |
+
+### File functions
+- read
+- write
+- 
 
 ### Math functions
 
@@ -679,9 +684,18 @@ int main() {
     char grade = 'A';
     char * pGrade = &grade;
 
-    printf("Memory address of... \nAge: %p \ngpa: %p \nGrade: %p \n", &age, &gpa, &grade);
-    printf("\nMemory address of... \nAge: %p \ngpa: %p \nGrade: %p \n", pAge, pGpa, pGrade);
-    printf("\nDe-Referenced pointers... \nAge: %d \ngpa: %f \nGrade: %c \n", *pAge, *pGpa, *pGrade);
+    printf("Memory address using &age \nAge: %p \ngpa: %p \nGrade: %p \n", &age, &gpa, &grade);
+    printf("\nMemory address using pAge (pAge = &age) \nAge: %p \ngpa: %p \nGrade: %p \n", pAge, pGpa, pGrade);
+
+    printf("---\n");
+
+    printf("\nDe-Referenced pointers using *&age \nAge: %d \ngpa: %f \nGrade: %c \n", *&age, *&gpa, *&grade);
+    printf("\nDe-Referenced pointers using *pAge \nAge: %d \ngpa: %f \nGrade: %c \n", *pAge, *pGpa, *pGrade);
+
+    printf("---\n");
+
+    printf("\nMemory address using &*&age \nAge: %p \ngpa: %p \nGrade: %p \n", &*&age, &*&gpa, &*&grade);
+    printf("\nMemory address using &*pAge (pAge = &age) \nAge: %p \ngpa: %p \nGrade: %p \n", &*pAge, &*pGpa, &*pGrade);
     
     return 0; 
 }
@@ -692,4 +706,10 @@ int main() {
 1. store an int: `int age = 26;`
 2. Reference a pointer: `int * pAge = &age;`
 3. de-reference a pointer: `printf("%d", *pAge);`
-4. 
+4. re-reference a pointer: `printf("%p", &*pAge);`
+
+## Writing Files - in C
+```c
+//
+```
+- 
