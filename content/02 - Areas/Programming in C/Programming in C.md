@@ -36,13 +36,13 @@ Here's the sections with simple info i always forget.
 
 ### Variable types
 
-| Name      | Declare | Example Declaration     | Printf | Scanf |
-| --------- | ------- | ----------------------- | ------ | ----- |
-| Integer   | int     | `int yourAge = 26;`     | %d     | %d    |
-| Float     | double  | `double gpa = 2.75;`    | %f     | %lf   |
-| Character | char    | `char grade = 'A';`     | %c     | %c    |
-| String    | char[]  | `char name[] = "Dani";` | %s     | %s    |
-|           |         |                         |        |       |
+| Name      | AKA            | Declare                 | Printf | Scanf |
+| --------- | -------------- | ----------------------- | ------ | ----- |
+| Integer   | Whole Number   | `int yourAge = 26;`     | %d     | %d    |
+| Float     | Decimal Number | `double gpa = 2.75;`    | %f     | %lf   |
+| Character | Character      | `char grade = 'A';`     | %c     | %c    |
+| String    | String         | `char name[] = "Dani";` | %s     | %s    |
+| Pointer   | Memory address | ❌                       | %p     |       |
 
 ### Math functions
 
@@ -623,7 +623,33 @@ Array 2: 3 6 9 12 15
 
 ## Memory addresses - in C
 ```c
-// do something
+#include <stdlib.h>
+#include <stdio.h>
+
+int main() {
+    int age = 26;
+    double gpa = 3.5;
+    char grade = 'A';
+
+    printf("Memory address of... \nAge: %p \ngpa: %p \nGrade: %p \n", &age, &gpa, &grade);
+    
+    return 0; 
+}
 ```
 - Memory addresses are the part of C that intimidates me and i worry i wont be able to understand. we shall see...
+- not sure when i would need to use memory addresses but here is how to access them.
+
+## Pointers - in C
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    int age = 26;
+
+    printf("Memory address of... \nAge: %p", &age);
+}
+```
+- pointers are just a memory address
+- use & before the name of the variable to address the variables memory address
 - 
