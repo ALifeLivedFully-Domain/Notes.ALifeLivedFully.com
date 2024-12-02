@@ -36,13 +36,14 @@ Here's the sections with simple info i always forget.
 
 ### Variable types
 
-| Name      | AKA            | Declare                 | Printf | Scanf |
-| --------- | -------------- | ----------------------- | ------ | ----- |
-| Integer   | Whole Number   | `int yourAge = 26;`     | %d     | %d    |
-| Float     | Decimal Number | `double gpa = 2.75;`    | %f     | %lf   |
-| Character | Character      | `char grade = 'A';`     | %c     | %c    |
-| String    | String         | `char name[] = "Dani";` | %s     | %s    |
-| Pointer   | Memory address | ❌                       | %p     |       |
+| Name      | AKA            | Declare                   | Printf | Scanf |
+| --------- | -------------- | ------------------------- | ------ | ----- |
+| Integer   | Whole Number   | `int yourAge = 26;`       | %d     | %d    |
+| Float     | Decimal Number | `double gpa = 2.75;`      | %f     | %lf   |
+| Character | Character      | `char grade = 'A';`       | %c     | %c    |
+| String    | String         | `char name[] = "Dani";`   | %s     | %s    |
+| Pointer   | Memory address | `char * pGrade = &grade;` | %p     |       |
+|           |                |                           |        |       |
 
 ### Math functions
 
@@ -641,15 +642,54 @@ int main() {
 
 ## Pointers - in C
 ```c
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 int main() {
     int age = 26;
+    int * pAge = &age;
 
-    printf("Memory address of... \nAge: %p", &age);
+    double gpa = 3.5;
+    double * pGpa = &gpa;
+
+    char grade = 'A';
+    char * pGrade = &grade;
+
+    printf("Memory address of... \nAge: %p \ngpa: %p \nGrade: %p \n", &age, &gpa, &grade);
+    printf("Memory address of... \nAge: %p \ngpa: %p \nGrade: %p \n", pAge, pGpa, pGrade);
+    
+    return 0; 
 }
 ```
 - pointers are just a memory address
 - use & before the name of the variable to address the variables memory address
-- 
+
+## De-Referencing Pointers - in C
+```c
+#include <stdlib.h>
+#include <stdio.h>
+
+int main() {
+    int age = 26;
+    int * pAge = &age;
+
+    double gpa = 3.5;
+    double * pGpa = &gpa;
+
+    char grade = 'A';
+    char * pGrade = &grade;
+
+    printf("Memory address of... \nAge: %p \ngpa: %p \nGrade: %p \n", &age, &gpa, &grade);
+    printf("\nMemory address of... \nAge: %p \ngpa: %p \nGrade: %p \n", pAge, pGpa, pGrade);
+    printf("\nDe-Referenced pointers... \nAge: %d \ngpa: %f \nGrade: %c \n", *pAge, *pGpa, *pGrade);
+    
+    return 0; 
+}
+```
+- Basically just fetching the data that is in the memory address?
+- when you de-reference a pointer you have to use the `*` symbol to de-reference it.
+- you have to use the datatype stored in the memory address
+1. store an int: `int age = 26;`
+2. Reference a pointer: `int * pAge = &age;`
+3. de-reference a pointer: `printf("%d", *pAge);`
+
