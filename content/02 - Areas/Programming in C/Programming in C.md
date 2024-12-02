@@ -692,4 +692,4 @@ int main() {
 1. store an int: `int age = 26;`
 2. Reference a pointer: `int * pAge = &age;`
 3. de-reference a pointer: `printf("%d", *pAge);`
-
+4. 
