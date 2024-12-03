@@ -36,19 +36,19 @@ Here's the sections with simple info i always forget.
 
 ### Variable types
 
-| Name      | AKA            | Declare                                 | Printf | Scanf |
-| --------- | -------------- | --------------------------------------- | ------ | ----- |
-| Integer   | Whole Number   | `int yourAge = 26;`                     | %d     | %d    |
-| Float     | Decimal Number | `double gpa = 2.75;`                    | %f     | %lf   |
-| Character | Character      | `char grade = 'A';`                     | %c     | %c    |
-| String    | String         | `char name[] = "Dani";`                 | %s     | %s    |
-| Pointer   | Memory address | `char * pGrade = &grade;`               | %p     |       |
-| File      |                | `FILE * fileName = fopen("file.txt", )` |        |       |
+| Name's                        | Declare                                     | Printf | Scanf |
+| ----------------------------- | ------------------------------------------- | ------ | ----- |
+| Integer, Whole Number, int    | `int yourAge = 26;`                         | %d     | %d    |
+| Float, Decimal Number, double | `double gpa = 2.75;`                        | %f     | %lf   |
+| Character, char               | `char grade = 'A';`                         | %c     | %c    |
+| String, char[]                | `char name[] = "Dani";`                     | %s     | %s    |
+| Pointer, memory address       | `char * pGrade = &grade;`                   | %p     |       |
+| File                          | `FILE * fileName = fopen("file.txt", "w");` |        |       |
 
 ### File functions
-- read
-- write
-- 
+- Read
+- Write
+- Append
 
 ### Math functions
 
