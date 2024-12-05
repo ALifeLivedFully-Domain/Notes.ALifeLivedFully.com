@@ -1,4 +1,4 @@
-# My experience programming in C
+# "C Programming Tutorial for Beginners" by FreeCodeCamp
 today i decided to start relearning programming in the C programming language. the reason i decided to learn C is that i feel like i can get a greater understanding of how computers work and be more prepared for [Programming in Rust].
 
 I have been using nix dev/shell environments to manage dependencies lately.

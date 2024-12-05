@@ -90,7 +90,8 @@ Areas of my life which need ongoing maintenance/work.
 	- Level 1 teaching certification
 
 ### Programming
-- [[Programming in C]]
+- [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
+- [[]]
 - Programming in Rust
 - Programming in Javascript
 
@@ -111,7 +112,7 @@ Areas of my life which need ongoing maintenance/work.
 This section covers quotes, highlighted sections, and notes from media like books, videos, articles, etc. 
 
 - Books
-	- 1984
+	- [["1984" by George Orwell]]
 	- How to lie with statistics
 	- etc...
 - Movies
@@ -121,6 +122,8 @@ This section covers quotes, highlighted sections, and notes from media like book
 - YouTube
 	- [["Hack your brain with elaborate coping mechanisms" by NoBoilerplate]]
 	- [["The Cult of Done" by NoBoilerplate]]
+	- [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
+	- [["C Programming Full Course for free" by Bro code]]
 - Music
 - Articles
 - Lectures

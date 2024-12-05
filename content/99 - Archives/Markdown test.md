@@ -163,14 +163,14 @@ var test = function this_is(){
 > ```
 
 ### Call-out types
-#### Note
+#### ✏️ Note
 > [!note]
 > ```
 > > [!note]
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Abstract, Summary, TLDR
+#### 📋 Abstract, Summary, TLDR
 > [!abstract]
 > ```
 > > [!abstract]
@@ -189,21 +189,21 @@ var test = function this_is(){
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Info
+#### ℹ️ Info
 > [!info]
 > ```
 > > [!info]
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Todo
+#### ✅ Todo
 > [!todo]
 > ```
 > > [!todo]
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Tip, Hint, Important
+#### 🔥 Tip, Hint, Important
 > [!tip]
 > ```
 > > [!tip]
@@ -222,7 +222,7 @@ var test = function this_is(){
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Success, Check, Done
+#### ✔️ Success, Check, Done
 > [!success]
 > ```
 > > [!success]
@@ -241,7 +241,7 @@ var test = function this_is(){
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Question, Help, FAQ
+#### ❓ Question, Help, FAQ
 > [!question]
 > ```
 > > [!question]
@@ -260,7 +260,7 @@ var test = function this_is(){
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Warning, Caution, Attention
+#### ⚠️ Warning, Caution, Attention
 > [!warning]
 > ```
 > > [!warning]
@@ -279,7 +279,7 @@ var test = function this_is(){
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Failure, Fail, Missing
+#### ❌ Failure, Fail, Missing
 > [!Failure]
 > ```
 > > [!failure]
@@ -298,7 +298,7 @@ var test = function this_is(){
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Danger, Error
+#### ⚡ Danger, Error
 > [!danger]
 > ```
 > > [!danger]
@@ -311,21 +311,21 @@ var test = function this_is(){
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Bug
+#### 🪲 Bug
 > [!bug]
 > ```
 > > [!bug]
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Example
+#### 📄 Example
 > [!example]
 > ```
 > > [!example]
 > Lorem ipsum dolor sit amet
 > ```
 
-#### Quote, Cite
+#### " Quote, Cite
 > [!quote]
 > ```
 > > [!quote]

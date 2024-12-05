@@ -1,0 +1,7 @@
+- tinder style swiping
+- sign up for notifications from matches hookup/hangout availability
+- dating apps seem to be filled with of creators and escorts.
+	- allowing escorts, and onlyfans type creaters to have creator accounts or escort accounts would allow them to advertise and for users to opt out of seeing their content
+		- they could be optional sections that users can opt out of seeing
+		- they could be options in settings for what you are and what you're looking for: Co-creator, subscribers, creators, escorts, escort clients, dates, hook-ups
+- 
