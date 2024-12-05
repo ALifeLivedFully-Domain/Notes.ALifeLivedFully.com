@@ -11,6 +11,8 @@ I have been using nix dev/shell environments to manage dependencies lately.
 
 I will be following along with a [FreeCodeCamp.org Video on C](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 
+![FreeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+
 >[!todo]
 >- i skipped the madlibs project cause i have done all the things required for it and dont think it will teach me anything and i wasnt feeling interested in completing it.
 
