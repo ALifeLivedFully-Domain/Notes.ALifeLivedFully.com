@@ -124,6 +124,7 @@ This section covers quotes, highlighted sections, and notes from media like book
 	- [["The Cult of Done" by NoBoilerplate]]
 	- [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
 	- [["C Programming Full Course for free" by Bro code]]
+	- [["How to Get a Developer Job – Even in This Economy - Full Course" by FreeCodeCamp]]
 - Music
 - Articles
 - Lectures

@@ -1,9 +1,11 @@
 
 >[!abstract]+
 >following along to a [bro code video](https://www.youtube.com/watch?v=87SH2Cn0s9A)
+>For more on C programming checkout  [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
 
 
 ![Video](https://www.youtube.com/watch?v=87SH2Cn0s9A)
+
 
 ## Table of contents
 #1   (00:00:00) C 
@@ -58,4 +60,99 @@ tutorial for beginners ⚙️
 #49 (03:40:18) reading files 🔎
 #50 (03:44:51) Tic Tac Toe game ⭕
 
-##
+
+
+
+## 01. C tutorial for beginners ⚙️
+
+
+## 02. compile and run a C program with cmd 🏗️ (optional video)
+
+
+
+## 03. comments & escape sequences 💬
+
+
+## 04. variables 💰
+
+
+## 05. data types 📊
+
+
+## 06. format specifiers 🔧
+
+
+## 07. constants 🚫
+
+
+## 08. arithmetic operators ➗
+
+
+## 09. augmented assignment operators 🧮
+
+
+## 10. user input ⌨️
+
+
+## 11. math functions 📚
+
+
+## 12. circle circumference program ⚪
+
+
+## 13. hypotenuse calculator program 📐
+
+
+## 14. if statements ✔️
+
+
+## 15. switch statements 🔽
+
+
+## 16. temperature conversion program 🌡️
+
+
+## 17. calculator program 🖩
+
+
+## 18. AND logical operator &&
+
+
+## 19. OR logical operator ||
+
+
+## 20. NOT logical operator !
+
+
+
+# Remaining chapters
+#21 (01:29:16) functions 📞
+#22 (01:31:53) arguments 📧
+#23 (01:35:46) return statement 🔙
+#24 (01:38:27) ternary operator ❓
+#25 (01:41:20) function prototypes 🤖
+#26 (01:45:57) string functions 🔠
+#27 (01:51:00) for loops 🔁
+#28 (01:54:22) while loops ♾️
+#29 (01:58:12) do while loop 🤸‍♂️
+#30 (02:01:35) nested loops ➰
+#31 (02:06:53) break vs continue 🥊
+#32 (02:09:14) arrays 🗃️
+#33 (02:13:46) print an array with loop 🔃
+#34 (02:18:26) 2D arrays ⬜
+#35 (02:25:58) array of strings🧵
+#36 (02:28:52) swap values of two variables 🥤
+#37 (02:32:45) sort an array 💱
+#38 (02:38:47) structs 🏠
+#39 (02:42:58) typedef 📛
+#40 (02:46:31) array of structs 🏫
+#41 (02:50:42) enums 📅
+#42 (02:55:08) random numbers 🎲
+#43 (02:58:23) number guessing game 🔢
+#44 (03:04:45) quiz game 💯
+#45 (03:14:09) bitwise operators 🔣
+#46 (03:20:55) memory addresses 📬
+#47 (03:27:56) pointers 👉
+#48 (03:35:59) writing files✍️
+#49 (03:40:18) reading files 🔎
+#50 (03:44:51) Tic Tac Toe game ⭕

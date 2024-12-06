@@ -78,7 +78,7 @@ def this_is
 end
 </code>
 
-### Pre tag
+### Pre-tag
 <pre>
 def this_is
   puts "some #{pre tag} code"
