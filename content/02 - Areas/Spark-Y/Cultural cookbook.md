@@ -1,4 +1,14 @@
+# Cultural cookbook project
+Built a website this week for the cultural cookbook/garden project. it just needs some submissions for recipes/gardening techniques, then once all the content is up i can mirrored the entire website to IPFS. it doesnt look great and the code looks awful but at least it works. 
 
+Resources:  
+![:one:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-medium/0031-fe0f-20e3.png) Cultural Cookbook Website Code: [https://github.com/ALifeLivedFully/Cookbook/](https://github.com/ALifeLivedFully/Cookbook/)  
+![:two:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-medium/0032-fe0f-20e3.png) Cultural Cookbook Website Prototype: [https://alifelivedfully.github.io/Cookbook/](https://alifelivedfully.github.io/Cookbook/)  
+![:three:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-medium/0033-fe0f-20e3.png) Cultural Cookbook Form: [https://forms.gle/cfAgeQYNEwuqwaHV6](https://forms.gle/cfAgeQYNEwuqwaHV6)  
+![:four:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-medium/0034-fe0f-20e3.png) Cultural Cookbook Submissions: https://docs.google.com/spreadsheets/d/1D1voOCkTIZM6Byo8wP00r6J2PE2LSKNc453ld5l7DLc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1D1voOCkTIZM6Byo8wP00r6J2PE2LSKNc453ld5l7DLc/edit?usp=sharing)
+
+>[!warning]
+>this project is very much a work in progress, and the documentation is likely somewhat outdated.
 
 ## Steps to produce a recipe
 1. Type out the recipe and story

@@ -1,0 +1,1 @@
+basically direct action as a form of effective political propaganda.
