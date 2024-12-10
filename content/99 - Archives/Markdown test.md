@@ -608,6 +608,9 @@ block-beta
 ```
 
 ### Packet Diagram
+>[!error]+
+>Doesn't work in obsidian
+
 ```mermaid
 ---
 title: "TCP Packet"
