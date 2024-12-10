@@ -141,7 +141,7 @@ you can measure how long it takes in the:
 ```mermaid
 xychart-beta
 title "Algorithm time complexity"
-x-axis "N" 1 --> 100
-y-axis "Steps" 1 --> 100
-line [10, 20, 30, 40, 50]
+x-axis "N" 10 --> 100
+y-axis "Steps" 10 --> 100
+line [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 ```
