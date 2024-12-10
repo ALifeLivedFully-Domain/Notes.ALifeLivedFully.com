@@ -143,5 +143,5 @@ xychart-beta
 title "Algorithm time complexity"
 x-axis "N" 1 --> 100
 y-axis "Steps" 1 --> 100
-line [1, 100]
+line [10, 20, 30, 40, 50]
 ```

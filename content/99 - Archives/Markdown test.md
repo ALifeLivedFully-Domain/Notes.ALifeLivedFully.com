@@ -383,6 +383,7 @@ this is a named footnote[^note].
 ![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 
 ## Mermaid diagrams
+For more info on mermaid diagrams checkout the [mermaid documentation](https://mermaid.js.org/intro/)
 
 ### Flowchart
 ```mermaid
