@@ -89,12 +89,6 @@ Areas of my life which need ongoing maintenance/work.
 - 🍎 Education
 	- Level 1 teaching certification
 
-### Programming
-- [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
-- [[]]
-- Programming in Rust
-- Programming in Javascript
-
 ### Security Awareness
 - [[Firearm training for self defense]]
 - [[Terrain analysis]]
@@ -116,9 +110,9 @@ This section covers quotes, highlighted sections, and notes from media like book
 - How to lie with statistics
 - etc...
 
-
 ### Movies
 - Interstellar
+
 ### TV Shows
 - Futurama
 
