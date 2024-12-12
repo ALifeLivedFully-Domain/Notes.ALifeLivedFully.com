@@ -80,9 +80,11 @@ Areas of my life which need ongoing maintenance/work.
 	- [[Electrician Apprenticeship| Electrical apprenticeship]]
 - 🤖 Tech
 	- CompTIA certifications
-		- Security+
-		- Network+
+		- A+
 		- Linux+
+		- Network+
+		- Pentest+
+		- Security+
 	- CCNA
 - 🚗 General
 	- Ham Radio Operators License
