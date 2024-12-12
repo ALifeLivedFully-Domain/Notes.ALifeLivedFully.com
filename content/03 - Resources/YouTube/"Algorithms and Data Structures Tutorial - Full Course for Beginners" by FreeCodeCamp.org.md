@@ -89,7 +89,7 @@
  "the set of steps a program takes to finish a task."
 
 - Simple search, Linear search, Sequential search
-- ...
+- Binary Search
 ## Data structures
 
 
@@ -145,3 +145,17 @@ x-axis "N" 10 --> 100
 y-axis "Steps" 10 --> 100
 line [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 ```
+
+## Binary search
+
+| Key                                                      | Answer                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Input**                                                | A sorted list of                                                                                                                                                                                                                                         |
+| **Output**                                               | The position in the list of the target value we are searching for or a output indicating the target does n                                                                                                                                               |
+| **Problem statement**                                                                                                                                                                                                                                                                                               |
+| **Steps**                                   1. Goto the middle element of the ordered list.<br>2. compare the current element to the target element. <br>3. **if** current element = target element **then** return the current element and end.<br>4. if current element < target element then   ment then   ment  |
+| **Steps in specific order?**                                                                                                                                                                                                                                                                                        |
+| **Each step is distinct?**                                                                                                                                                                                                                                                                                          |
+| **Algorithm produces a result?**                                                                                                                                                                                                                                                                                    |
+| **Algorithm completes in a in a finite amount                                                                                                                                                                                                                                                                       |
+

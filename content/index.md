@@ -111,23 +111,37 @@ Areas of my life which need ongoing maintenance/work.
 ## 03 - Resources
 This section covers quotes, highlighted sections, and notes from media like books, videos, articles, etc. 
 
-- Books
-	- [["1984" by George Orwell]]
-	- How to lie with statistics
-	- etc...
-- Movies
-	- Interstellar
-- TV Shows
-	- Futurama
-- YouTube
-	- [["Hack your brain with elaborate coping mechanisms" by NoBoilerplate]]
-	- [["The Cult of Done" by NoBoilerplate]]
-	- [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
-	- [["C Programming Full Course for free" by Bro code]]
-	- [["How to Get a Developer Job – Even in This Economy - Full Course" by FreeCodeCamp]]
-- Music
-- Articles
-- Lectures
+### Books
+- [["1984" by George Orwell]]
+- How to lie with statistics
+- etc...
+
+
+### Movies
+- Interstellar
+### TV Shows
+- Futurama
+
+### YouTube
+- [["Algorithms and Data Structures Tutorial - Full Course for Beginners" by FreeCodeCamp.org]]
+- [["Hack your brain with elaborate coping mechanisms" by NoBoilerplate]]
+- [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
+- [["The Cult of Done" by NoBoilerplate]]
+- [["C Programming Full Course for free" by Bro code]]
+- [["How to Get a Developer Job – Even in This Economy - Full Course" by FreeCodeCamp]]
+### Music
+- Immortal technique
+- Woody Guthrie
+
+### Articles
+
+
+### Lectures
+
+
+### Podcasts
+- It could happen here - [Listen here...](https://open.spotify.com/show/3KNdniw6YDpgDuwrhcpSXw) 
+- Lost terminal - [Listen here...](https://lostterminal.com/)
 
 ---
 ## 99 - Archives
