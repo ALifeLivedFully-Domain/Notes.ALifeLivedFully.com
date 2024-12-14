@@ -6,7 +6,9 @@ tags:
 description: 
 permalink: 
 aliases: 
-date:
+date: 
+categories:
+  - Testing
 ---
 # Primary dashboard
 ![My avatar](https://avatars.githubusercontent.com/u/96098717?v=4)
