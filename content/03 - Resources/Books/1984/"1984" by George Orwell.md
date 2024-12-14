@@ -1,5 +1,7 @@
 ---
 title: "1984"
+tags:
+  - Resources/Books/George_Orwell
 ---
 # "1984" by George Orwell
 

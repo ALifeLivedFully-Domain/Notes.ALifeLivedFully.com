@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources/YouTube/NoBoilerplate
+---
+
 # Hack your brain with elaborate coping mechanisms
 1. Declare bankruptcy on your memory
 	1. we both know that you forget everything. dont feel bad about it, just accept it.

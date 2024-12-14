@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources/YouTube/FreeCodeCamp
+---
+
 # "How to Get a Developer Job – Even in This Economy - Full Course" by FreeCodeCamp
 Although im not desperate for the knowledge in this video, its probably good to keep up with the times when it comes to job search techniques, resume building, etc.
 

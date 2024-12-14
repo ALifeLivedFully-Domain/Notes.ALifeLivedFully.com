@@ -1,7 +1,9 @@
 ---
 config:
   kanban:
-    ticketBaseUrl: 'https://mermaidchart.atlassian.net/browse/#TICKET#'
+    ticketBaseUrl: https://mermaidchart.atlassian.net/browse/#TICKET#
+tags:
+  - Archives/Areas/Programming/Languages/Markdown
 ---
 
 # Markdown reference test

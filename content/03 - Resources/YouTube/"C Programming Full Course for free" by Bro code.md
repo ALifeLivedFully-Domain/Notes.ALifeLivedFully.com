@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources/YouTube/BroCodez
+  - Areas/Programming/Languages/C
+---
 
 >[!abstract]+
 >following along to a [bro code video](https://www.youtube.com/watch?v=87SH2Cn0s9A)

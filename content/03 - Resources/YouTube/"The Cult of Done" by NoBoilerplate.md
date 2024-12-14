@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources/YouTube/NoBoilerplate
+---
+
 # The Cult of Done
 
 

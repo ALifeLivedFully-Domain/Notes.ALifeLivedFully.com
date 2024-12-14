@@ -1,3 +1,10 @@
+---
+tags:
+  - Resources/YouTube/FreeCodeCamp
+  - Areas/Programming/Algorithms
+  - Areas/Programming/Data_structures
+---
+
 # "Algorithms and Data Structures Tutorial - Full Course for Beginners" by FreeCodeCamp.org
 
 >[!abstract]+

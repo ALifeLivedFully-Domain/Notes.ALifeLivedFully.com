@@ -1,7 +1,8 @@
 ---
 title: Notes Homepage
 draft: false
-tags: 
+tags:
+  - Dashboard
 description: 
 permalink: 
 aliases: 
