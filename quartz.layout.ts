@@ -79,7 +79,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     // Component.Explorer(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.TagList()),
   ],
   right: [],
 }
