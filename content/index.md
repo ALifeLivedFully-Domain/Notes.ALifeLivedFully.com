@@ -17,7 +17,7 @@ categories:
 >This website was made for learning in public, as well as to open source my notes, ideas, and life.
 
 >[!faq]
->**What is "WIP"?** 
+>**What is "WIP"?**  
 >This stands for *Work In Progress*
 
 
@@ -40,71 +40,48 @@ categories:
 
 ---
 ## 02 - Areas
-Areas of my life which need ongoing maintenance/work.
+Areas of my life which need ongoing maintenance/work, or areas that have no specific end goal or has such a long term goal as to be considered an area.
 
 ### Basic Survival Skills
 Skills that i feel everyone should try to learn or that i feel are integral to the human experience.
 
-| Skill        | Featured Documents                                             |
-| ------------ | -------------------------------------------------------------- |
-| Cooking      | Recipes:<br>- [[Crazy Cake - A depression era chocolate cake]] |
-| Hunting      |                                                                |
-| Gathering    |                                                                |
-| Self-Defense |                                                                |
+| Skill               | Featured Document(s)                                              |
+| ------------------- | ----------------------------------------------------------------- |
+| 🍽️ **Cooking**     | Recipes:<br>- [[Crazy Cake - A depression era chocolate cake]]    |
+| 🎣 **Hunting**      |                                                                   |
+| 🍄 **Gathering**    |                                                                   |
+| 🥊 **Self-Defense** | - [[Firearm training for self defense]]<br>- [[Terrain analysis]] |
 
 ### Work & School
+This is where most people spend the most amount of time. (Including me)
 
-| Location                                                             | Featured Documents                                                                         |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **I.A.T.S.E** - International alliance of theatrical stage employees | Training Documents:<br>- [[Forklift training]]<br>- Rigger training<br>- Wardrobe training |
-| **Spark-Y**                                                          | Projects:<br>- [[Aquaponics Lesson Plans for Grades K-5]]<br>- [[Cultural cookbook]]       |
-| **Electrician Apprenticeship**                                       | - [[Electrician Apprenticeship\|Application Process]]                                      |
-| **College**                                                          |                                                                                            |
+| Location                                                                 | Featured Document(s)                                                                       |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| 📽️ **I.A.T.S.E** - International alliance of theatrical stage employees | Training Documents:<br>- [[Forklift training]]<br>- Rigger training<br>- Wardrobe training |
+| 🪴 **Spark-Y**                                                           | Projects:<br>- [[Aquaponics Lesson Plans for Grades K-5]]<br>- [[Cultural cookbook]]       |
+| ⚡ **Electrician Apprenticeship**                                         | - [[Electrician Apprenticeship\|Application Process]]                                      |
+| 🧑‍🎓 **College**                                                        | - FAFSA Check-in                                                                           |
 
-### Certifications
-- ⚕️ Healthcare
-	 - CNA - Certified nursing assistant
-	 - PCA - Personal Care assistant
-	 - HHA - Home health aid
-	 - MHFA - Mental health first aid
-	 - BBP - Blood borne pathogens
-	 - WVP - Workplace violence prevention for nurses
-- 🔧 Blue collar Trades
-	 - Forklift operator license
- - 🤖 Tech
-	 - Responsive web design
-- 🚗 General
-	- GED
-	- Drivers license
-	- Fishing license
-	- Passport
-	- Covid vaccinations
-	- Permit to purchase
-	- Permit to carry
+### Current Certifications
+Certifications which i have already achieved.
 
-#### Future certifications
-- ⚕️ Healthcare
-	- EMT
-	- X-Ray Tech
-- 🔧 Blue Collar Trades
-	- CDL - Commercial drivers license
-	- [[Electrician Apprenticeship| Electrical apprenticeship]]
-- 🤖 Tech
-	- CompTIA certifications
-		- A+
-		- Linux+
-		- Network+
-		- Pentest+
-		- Security+
-	- CCNA
-- 🚗 General
-	- Ham Radio Operators License
-- 🍎 Education
-	- Level 1 teaching certification
+| Category                  | Certification(s)                                                                                                                                                                                                     |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚕️ **Healthcare**         | - CNA: Certified nursing assistant<br>- PCA: Personal Care assistant<br>- HHA: Home health aid<br>- MHFA: Mental health first aid<br>- BBP: Blood borne pathogens<br>- WVP: Workplace violence prevention for nurses |
+| 🔧 **Blue collar Trades** | - Forklift operators license                                                                                                                                                                                         |
+| 🤖 **Tech**               | - Responsive web design                                                                                                                                                                                              |
+| 🚗 **General**            | - GED<br>- Drivers license<br>- Fishing license<br>- Passport<br>- Covid vaccinations<br>- Permit to purchase<br>- Permit to carry                                                                                   |
 
-### Security Awareness
-- [[Firearm training for self defense]]
-- [[Terrain analysis]]
+#### Possible future certifications
+Certifications that i have been interested in pursuing.
+
+| Category                  | Certification(s)                                                                                              |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ⚕️ **Healthcare**         | - EMT<br>- X-Ray Tech                                                                                         |
+| 🔧 **Blue Collar Trades** | - CDL: Commercial drivers license<br>- [[Electrician Apprenticeship\| Electrical apprenticeship]]             |
+| 🤖 **Tech**               | - CompTIA A+<br>- CompTIA Linux+<br>- CompTIA Network+<br>- CompTIA Pentest+<br>- CompTIA Security+<br>- CCNA |
+| 🍎 **Education**          | - Level 1 teaching certification                                                                              |
+| 🚗 **General**            | - Ham Radio Operators License                                                                                 |
 
 ### Religion
 - [[Judaism]]
@@ -127,6 +104,7 @@ This section covers quotes, highlighted sections, and notes from media like book
 - Interstellar
 
 ### TV Shows
+- Mr.Robot
 - Futurama
 
 ### YouTube
@@ -142,10 +120,10 @@ This section covers quotes, highlighted sections, and notes from media like book
 - Woody Guthrie
 
 ### Articles
-
+- ["Understanding zero knowledge proofs through the source code of tornado cash" by Laszlo Fazekas](https://betterprogramming.pub/understanding-zero-knowledge-proofs-through-the-source-code-of-tornado-cash-41d335c5475f)
 
 ### Lectures
-
+- ["CS50" by Harvard](https://www.youtube.com/watch?v=8mAITcNt710)
 
 ### Podcasts
 - It could happen here - [Listen here...](https://open.spotify.com/show/3KNdniw6YDpgDuwrhcpSXw) 
