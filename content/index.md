@@ -16,10 +16,9 @@ categories:
 >[!abstract]
 >This website was made for learning in public, as well as to open source my notes, ideas, and life.
 
-
-
-
-
+>[!faq]
+>**What is "WIP"?** 
+>This stands for *Work In Progress*
 
 
 ---
@@ -43,17 +42,26 @@ categories:
 ## 02 - Areas
 Areas of my life which need ongoing maintenance/work.
 
-### Work
-- I.A.T.S.E - International alliance of theatrical stage employees
-	- Forklift training
-	- Rigger training
-	- wardrobe training
-- Spark-Y
-	- Room 107 SOPs
-	- [[Aquaponics Lesson Plans for Grades K-5]]
-- [[Electrician Apprenticeship]]
+### Basic Survival Skills
+Skills that i feel everyone should try to learn or that i feel are integral to the human experience.
 
-### Current Certifications, Permits, Licenses, etc
+| Skill        | Featured Documents                                             |
+| ------------ | -------------------------------------------------------------- |
+| Cooking      | Recipes:<br>- [[Crazy Cake - A depression era chocolate cake]] |
+| Hunting      |                                                                |
+| Gathering    |                                                                |
+| Self-Defense |                                                                |
+
+### Work & School
+
+| Location                                                             | Featured Documents                                                                         |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **I.A.T.S.E** - International alliance of theatrical stage employees | Training Documents:<br>- [[Forklift training]]<br>- Rigger training<br>- Wardrobe training |
+| **Spark-Y**                                                          | Projects:<br>- [[Aquaponics Lesson Plans for Grades K-5]]<br>- [[Cultural cookbook]]       |
+| **Electrician Apprenticeship**                                       | - [[Electrician Apprenticeship\|Application Process]]                                      |
+| **College**                                                          |                                                                                            |
+
+### Certifications
 - ⚕️ Healthcare
 	 - CNA - Certified nursing assistant
 	 - PCA - Personal Care assistant
@@ -74,7 +82,7 @@ Areas of my life which need ongoing maintenance/work.
 	- Permit to purchase
 	- Permit to carry
 
-### Work in progress certifications
+#### Future certifications
 - ⚕️ Healthcare
 	- EMT
 	- X-Ray Tech
