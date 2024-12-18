@@ -25,6 +25,11 @@ categories:
 ## 01 - Projects
 Projects that have specific end goals/Projects that can get "Done" whatever that means.
 
+>[!quote]
+>"It takes half your life before you discover life is a do-it-yourself project."
+>
+>\- Napoleon Hill
+
 | Category                                    | Project(s)                                                                                                                                                                                   |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🏠 **My Websites**                          | - [ALifeLivedFully.com](https://alifelivedfully.com)<br>- [Links.ALifeLivedFully.com](https://Links.ALifeLivedFully.com)<br>- [Notes.ALifeLivedFully.com](https://Notes.ALifeLivedFully.com) |
@@ -35,6 +40,11 @@ Projects that have specific end goals/Projects that can get "Done" whatever that
 ---
 ## 02 - Areas
 Areas of my life which need ongoing maintenance/work, or areas that have no specific end goal or has such a long term goal as to be considered an area.
+
+>[!quote]
+>“Learning is not attained by chance, it must be sought for with ardour and diligence.”
+>
+\- Abigail Adams
 
 ### Basic Survival Skills
 Skills that i feel everyone should try to learn or that i feel are integral to the human experience.
@@ -89,10 +99,13 @@ Certifications that i have been interested in pursuing.
 ## 03 - Resources
 This section covers quotes, highlighted sections, and notes from media like books, videos, articles, etc. 
 
+>[!quote]
+>“If I have seen further, it is by standing on the shoulders of giants.”
+>
+>\- Sir Isaac Newton
 ### Books
 - [["1984" by George Orwell]]
 - How to lie with statistics
-- etc...
 
 ### Movies
 - Interstellar
@@ -126,6 +139,11 @@ This section covers quotes, highlighted sections, and notes from media like book
 ---
 ## 99 - Archives
 Archives is all the stuff i dont need day to day anymore but dont have a reason to delete.
+
+>[!quote]
+>“Those who cannot remember the past are condemned to repeat it.” 
+>
+>\- George Santayana
 
 - Work
 	- Foss swim school
