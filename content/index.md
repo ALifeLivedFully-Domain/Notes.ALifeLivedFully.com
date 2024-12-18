@@ -13,7 +13,7 @@ categories:
 # Primary dashboard
 ![My avatar](https://avatars.githubusercontent.com/u/96098717?v=4)
 
->[!abstract]
+>[!tldr]
 >This website was made for learning in public, as well as to open source my notes, ideas, and life.
 
 >[!faq]
@@ -23,7 +23,7 @@ categories:
 
 ---
 ## 01 - Projects
-Projects that have specific end goals/Projects that can get "Done" whatever that means.
+Projects that have specific end goals/Projects that can get "Done" (whatever that means.)
 
 >[!quote]
 >"It takes half your life before you discover life is a do-it-yourself project."
@@ -42,9 +42,9 @@ Projects that have specific end goals/Projects that can get "Done" whatever that
 Areas of my life which need ongoing maintenance/work, or areas that have no specific end goal or has such a long term goal as to be considered an area.
 
 >[!quote]
->“Learning is not attained by chance, it must be sought for with ardour and diligence.”
->
-\- Abigail Adams
+>“Learning is not attained by chance, it must be sought for with ardour and diligence.”  
+>  
+>  \- Abigail Adams
 
 ### Basic Survival Skills
 Skills that i feel everyone should try to learn or that i feel are integral to the human experience.
