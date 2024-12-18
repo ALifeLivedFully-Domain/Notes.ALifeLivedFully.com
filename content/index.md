@@ -23,20 +23,14 @@ categories:
 
 ---
 ## 01 - Projects
+Projects that have specific end goals/Projects that can get "Done" whatever that means.
 
-**Project notes:**
-- [My website](https://ALifeLivedFully.com)
-	- [My links](https://Links.ALifeLivedFully.com)
-	- [My notes](https://Notes.ALifeLivedFully.com)
-- [Uptown Micros](https://github.com/ALifeLivedFully/Uptown-Micros)
-- [[Bicycle camper]]
-- [[Biogas Digester]]
-- RV Solar system
-- [[My Cozy Game]]
-
-**Project ideas:**
-- Water catchment system
-- Water filtration and re-circulation system
+| Category                                    | Project(s)                                                                                                                                                                                   |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏠 **My Websites**                          | - [ALifeLivedFully.com](https://alifelivedfully.com)<br>- [Links.ALifeLivedFully.com](https://Links.ALifeLivedFully.com)<br>- [Notes.ALifeLivedFully.com](https://Notes.ALifeLivedFully.com) |
+| 🔥 **Personal Projects**                    | - [[My Cozy Game]]                                                                                                                                                                           |
+| 💸 **Professional Projects**                | - [Uptown Micros](https://github.com/ALifeLivedFully/Uptown-Micros)                                                                                                                          |
+| 🪴 **Sustainability and Off-Grid Projects** | - [[Biogas Digester]]<br>- [[Bicycle camper]]<br>- Water catchment system<br>- Water filtration and re-circulation system<br>- RV Solar system                                               |
 
 ---
 ## 02 - Areas
