@@ -104,6 +104,7 @@ This section covers quotes, highlighted sections, and notes from media like book
 >
 >\- Sir Isaac Newton
 ### Books
+- [["Parable of the sower" by Octavia Butler]]
 - [["Read Write Own" by Chris Dixon]]
 - [["1984" by George Orwell]]
 - How to lie with statistics
