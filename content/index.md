@@ -52,8 +52,10 @@ Skills that i feel everyone should try to learn or that i feel are integral to t
 | Skill               | Featured Document(s)                                              |
 | ------------------- | ----------------------------------------------------------------- |
 | 🍽️ **Cooking**     | Recipes:<br>- [[Crazy Cake - A depression era chocolate cake]]    |
-| 🎣 **Hunting**      |                                                                   |
+| 🎣 **Hunting**      | - [[Getting started hunting]]                                     |
 | 🍄 **Gathering**    |                                                                   |
+| 🐄 **Farming**      |                                                                   |
+| ⛑️ **First Aid**    |                                                                   |
 | 🥊 **Self-Defense** | - [[Firearm training for self defense]]<br>- [[Terrain analysis]] |
 
 ### Work & School
