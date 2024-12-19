@@ -47,7 +47,7 @@ Areas of my life which need ongoing maintenance/work, or areas that have no spec
 >  \- Abigail Adams
 
 ### Basic Survival Skills
-Skills that i feel everyone should try to learn or that i feel are integral to the human experience.
+Skills that i feel everyone should try to learn or that i feel are integral to the human experience.  
 
 | Skill               | Featured Document(s)                                              |
 | ------------------- | ----------------------------------------------------------------- |
