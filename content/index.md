@@ -68,7 +68,7 @@ This is where most people spend the most amount of time. (Including me)
 | ⚡ **Electrician Apprenticeship**                                         | - [[Electrician Apprenticeship\|Application Process]]                                      |
 | 🧑‍🎓 **College**                                                        | - FAFSA Check-in                                                                           |
 
-### Current Certifications
+### Certifications
 Certifications which i have already achieved.
 
 | Category                  | Certification(s)                                                                                                                                                                                                     |

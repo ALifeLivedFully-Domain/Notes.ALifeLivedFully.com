@@ -7,3 +7,18 @@ chuck makes a token on the Solana network and then i think he is gonna make a sm
 ![embeded video](https://www.youtube.com/watch?v=L4ASwqLZVV0)
 
 ## Notes
+- Chuck is using a docker container but im not the biggest fan of docker so ill likely be using a custom nix-shell
+
+```nix
+# Nix-shell example
+{ pkgs ? import <nixpkgs> { } }:
+
+pkgs.mkShell {
+	nativeBuildInputs = with pkgs; [
+    rustc
+	];
+	
+	shellHook = ''
+	'';
+}
+```
