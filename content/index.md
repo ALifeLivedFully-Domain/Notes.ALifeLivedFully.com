@@ -119,12 +119,12 @@ This section covers quotes, highlighted sections, and notes from media like book
 - Futurama
 
 ### YouTube
-- [["Algorithms and Data Structures Tutorial - Full Course for Beginners" by FreeCodeCamp.org]]
+- [[WIP - "Algorithms and Data Structures Tutorial - Full Course for Beginners" by FreeCodeCamp.org]]
 - [["Hack your brain with elaborate coping mechanisms" by NoBoilerplate]]
 - [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
-- [["The Cult of Done" by NoBoilerplate]]
-- [["C Programming Full Course for free" by Bro code]]
-- [["How to Get a Developer Job – Even in This Economy - Full Course" by FreeCodeCamp]]
+- [[WIP - "The Cult of Done" by NoBoilerplate]]
+- [[WIP - "C Programming Full Course for free" by Bro code]]
+- [[WIP - "How to Get a Developer Job – Even in This Economy - Full Course" by FreeCodeCamp]]
 
 ### Music
 - Immortal technique

@@ -1,12 +1,18 @@
-description
+I have been working on getting my NixOS config exactly how i want it.
 
 - [ ] Nix
 	- [x] nix flakes
-	- [ ] fix config warnings
+	- [x] fix config warnings
 	- [ ] nix flake installer 
 	- [ ] [Impermanence setup with disko](https://www.youtube.com/watch?v=YPKwkWtK7l0&t=88s)
+		- [ ] learn basics
+		- [ ] add to config
 	- [ ] [Hyperland](https://www.youtube.com/watch?v=61wGzIv12Ds)
+		- [ ] learn basics, what is it? why should you use or not use it?
+		- [ ] setup hyperland
 	- [ ] [Nix Dev Enviroments](https://www.youtube.com/watch?v=yQwW8dkuHqw)
+		- [ ] start learning basics
+		- [ ] create boilerplate's for each language I want to develop in
 
 ## Modular NixOS
 [Vimjoyer Modular NixOS Config video](https://www.youtube.com/watch?v=vYc6IzKvAJQ)

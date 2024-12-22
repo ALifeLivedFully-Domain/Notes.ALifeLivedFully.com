@@ -1,3 +1,5 @@
+>[!warning]
+>this was before i understood that flakes can do this.
 
 
 https://github.com/orgs/community/discussions/25234

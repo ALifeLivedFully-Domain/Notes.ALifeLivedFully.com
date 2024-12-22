@@ -16,7 +16,7 @@ I have been using nix dev/shell environments to manage dependencies lately.
 | ./HelloWorld              | Execute the `HelloWorld` program                             |
 
 I will be following along with a [FreeCodeCamp.org Video on C](https://www.youtube.com/watch?v=KJgsSFOSQv0)
-For more C Programming checkout [["C Programming Full Course for free" by Bro code]]
+For more C Programming checkout [[WIP - "C Programming Full Course for free" by Bro code]]
 
 ![FreeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 

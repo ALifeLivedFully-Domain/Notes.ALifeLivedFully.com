@@ -37,7 +37,7 @@ tags:
 13. negative emotions are not very useful
 	1. focus on positive emotions
 	2. but don't ignore the negatives
-	3. notice the negitives, but feel the positives
+	3. ==notice the negitives, but feel the positives==
 14. FOCUS
 	1. pick one thing and do/learn it.
 	2. its ok to want to learn multiple things but multitasking isnt real, you have to focus on one thing at a time.
