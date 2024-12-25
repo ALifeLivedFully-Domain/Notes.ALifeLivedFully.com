@@ -2,10 +2,12 @@
 
 
 - Engineering
-	- mechanical
-	- chemical
-	- software
-	- civil
+	- Mechanical
+	- Electrical
+	- Chemical
+	- Software
+	- Civil
+	- Industrial
 - Paramedic fire science
 - EMT
 - 
