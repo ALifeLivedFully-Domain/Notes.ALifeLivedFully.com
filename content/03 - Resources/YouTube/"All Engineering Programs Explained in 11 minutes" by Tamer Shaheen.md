@@ -1,5 +1,16 @@
 # "All Engineering Programs Explained in 11 minutes" by Tamer Shaheen
-trying to figure out how bad i want to study engineering
+trying to figure out how bad i want to study engineering and which engineering program i sould focus on.
+
+>[!tldr]
+>Im mainly interested in:
+>1. Mechatronics
+>2. Electrical
+>3. Mechanical
+>4. Software. 
+>   
+>   I'm also very interested in chemical engineering but i have never taken much if any chemistry classes so its hard to know if i could major in it.
+
+![Embeded video](https://www.youtube.com/watch?v=2O0UkMseAAI&pp=ygVCQWxsIEVuZ2luZWVyaW5nIFByb2dyYW1zIEV4cGxhaW5lZCBpbiAxMSBtaW51dGVzIiBieSBUYW1lciBTaGFoZWVu)
 
 ## Engineering Disciplines
 - Mechanical
@@ -11,13 +22,13 @@ trying to figure out how bad i want to study engineering
 - industrial
 
 ## Personal Notes
-- So far im thinking mechanical engineer and self study software engineering since its less degree focused.
-- mechanical engineer sounds interesting but i feel like it wouldnt be involving electrical engineering concepts.
-- Software engineer seems like a waste of an engineering degree since its not required and the info is easily obtained
+- So far im thinking mechanical engineer and just self study software engineering later since its less degree focused?
+- mechanical engineer sounds interesting but i feel like it wouldn't be involving electrical engineering concepts.
+- Software engineer seems like a waste of an engineering degree sometimes since its not required and the info is easily obtained online
 - I have heard of mechatronics engineering before and it sounds awesome to combine all these disciplines together
 
 ---
-## Mechanical
+## Mechanical Engineering
 Design things and get them built.
 
 ### Courses:
@@ -34,7 +45,7 @@ Design things and get them built.
 - HVAC eng
 
 ---
-## Electrical
+## Electrical Engineering
 builds devices like motors, etc.
 
 ### Courses
@@ -51,7 +62,7 @@ builds devices like motors, etc.
 - Firmware eng
 
 ---
-## Software
+## Software Engineering
 Build large scale software systems.
 
 ### Courses
@@ -66,7 +77,7 @@ Build large scale software systems.
 - Web Developer
 
 ---
-## Chemical
+## Chemical Engineering
 Design the processes that go in power plants that produce materials.
 
 ### Courses
@@ -79,7 +90,7 @@ Design the processes that go in power plants that produce materials.
 - Process engineer
 
 ---
-## Civil
+## Civil Engineering
 Design bridges, buildings, roads, tunnels, etc.
 
 ### Sub disciplines

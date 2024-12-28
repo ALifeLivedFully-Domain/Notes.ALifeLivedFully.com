@@ -4,8 +4,8 @@ discusses using flake.nix instead of dockerfiles and possibly a drop in replacem
 >[!tldr]
 >1. Docker builds are repeatable **not** reproducible.
 >2. in nix everything is evaluated as an expession not a series of steps
->3. 
 
 ![embeded video](https://www.youtube.com/watch?v=0uixRE8xlbY)
 
 ## Notes
+- Docker is great but it essentially trys to make a reproducable system by simply repeating the steps you took to get there which doesnt work. its repeatable but not reproducable.
