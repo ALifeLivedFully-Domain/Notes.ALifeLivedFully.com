@@ -1,6 +1,10 @@
 # Baofeng UV-5R For Beginners - Quick Start Guide by NotaRubicon Productions
 Notes from Multiple videos overviewing the UV-5R
 
+>[!todo]
+>- [ ] finish buttons list
+>- [ ] add radio software info
+
 ![Embeded video](https://www.youtube.com/watch?v=7jFn7ZGVldg&t=0s)
 
 ## Notes

@@ -7,6 +7,7 @@ trying to figure out how bad i want to study engineering and which engineering p
 >2. Electrical
 >3. Mechanical
 >4. Software. 
+>5. **Bio-Technical Engineering!**
 >   
 >   I'm also very interested in chemical engineering but i have never taken much if any chemistry classes so its hard to know if i could major in it.
 
