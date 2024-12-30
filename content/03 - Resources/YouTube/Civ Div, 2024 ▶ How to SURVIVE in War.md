@@ -1,4 +1,4 @@
-# "How to survive in war" by CivDiv
+# Civ Div, 2024 ▶ How to SURVIVE in War
 War is rough, I have never been in war but one day I might be whether I like it or not. better to be prepared than not prepared.
 
 >[!tldr]
@@ -8,8 +8,10 @@ War is rough, I have never been in war but one day I might be whether I like it 
 >
 >You **Will** be hit sooner or later, be prepared to treat wounds.
 
+![Civ Div, 2024 ▶ How to SURVIVE in War](https://youtu.be/Aj7aufhLfWA)
 
-![embeded video](https://www.youtube.com/watch?v=Aj7aufhLfWA)
+## Timestamps
+- YT=00:00 - Start of video
 
 ## Primary points
 1. utilize small recon teams before an assault

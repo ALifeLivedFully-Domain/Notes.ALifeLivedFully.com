@@ -6,7 +6,7 @@ tags:
 
 >[!abstract]+
 >following along to a [bro code video](https://www.youtube.com/watch?v=87SH2Cn0s9A)
->For more on C programming checkout  [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
+>For more on C programming checkout  [[freeCodeCamp.org, 2018 ▶ C Programming Tutorial for Beginners]]
 
 
 ![Video](https://www.youtube.com/watch?v=87SH2Cn0s9A)

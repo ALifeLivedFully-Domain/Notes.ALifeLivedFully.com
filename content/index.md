@@ -120,9 +120,9 @@ This section covers quotes, highlighted sections, and notes from media like book
 
 ### YouTube
 - [[WIP - "Algorithms and Data Structures Tutorial - Full Course for Beginners" by FreeCodeCamp.org]]
-- [["Hack your brain with elaborate coping mechanisms" by NoBoilerplate]]
-- [["C Programming Tutorial for Beginners" by FreeCodeCamp]]
-- [["The Cult of Done - Break the starting cycle" by NoBoilerplate]]
+- [[No Boilerplate, 2023 ▶ Hack Your Brain With Elaborate Coping Mechanisms]]
+- [[freeCodeCamp.org, 2018 ▶ C Programming Tutorial for Beginners]]
+- [[No Boilerplate, 2023 ▶ The Cult of Done - Break the starting cycle]]
 - [[WIP - "C Programming Full Course for free" by Bro code]]
 - [[WIP - "How to Get a Developer Job – Even in This Economy - Full Course" by FreeCodeCamp]]
 

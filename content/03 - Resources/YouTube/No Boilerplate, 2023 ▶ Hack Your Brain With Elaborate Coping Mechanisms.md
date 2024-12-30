@@ -2,8 +2,20 @@
 tags:
   - Resources/YouTube/NoBoilerplate
 ---
+# No Boilerplate, 2023 ▶ Hack Your Brain With Elaborate Coping Mechanisms
+more efficient thought processes
 
-# Hack your brain with elaborate coping mechanisms
+>[!tldr]
+>Summarize points here
+
+![No Boilerplate, 2023 ▶ Hack Your Brain With Elaborate Coping Mechanisms](https://youtu.be/XUZ9VATeF_4)
+
+## Timestamps
+- YT=00:00 - Start of video
+
+## Notes
+I really enjoyed the video and found it had useful ideas.
+
 1. Declare bankruptcy on your memory
 	1. we both know that you forget everything. dont feel bad about it, just accept it.
 2. Carry a notebook

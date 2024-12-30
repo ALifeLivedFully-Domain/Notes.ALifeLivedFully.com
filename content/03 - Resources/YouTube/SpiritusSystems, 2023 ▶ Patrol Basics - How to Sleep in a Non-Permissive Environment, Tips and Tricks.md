@@ -1,4 +1,4 @@
-# "Patrol Basics: How to Sleep in a Non-Permissive Environment, Tips and Tricks" by SpiritusSystems
+# SpiritusSystems, 2023 ▶ Patrol Basics: How to Sleep in a Non-Permissive Environment, Tips and Tricks
 Trying to achieve optimal sleep in non-optimal conditions.
 
 >[!tldr]
@@ -6,9 +6,13 @@ Trying to achieve optimal sleep in non-optimal conditions.
 >Dress in layers to stay warm enough.
 >Find cover and concealment.
 
-![embeded video](https://www.youtube.com/watch?v=KO9s1qV7xVM)
+![SpiritusSystems, 2023 ▶ Patrol Basics: How to Sleep in a Non-Permissive Environment, Tips and Tricks](https://youtu.be/KO9s1qV7xVM)
+
+## Timestamps
+- YT=00:00 - Start of video
 
 ## Notes
+
 - 4 hours per 24 hour period is not enough sleep, you WILL fall asleep even while walking.
 - 8-9 hours is the new standard (Ideally)
 - woovee? seems like a very lightweight blanket

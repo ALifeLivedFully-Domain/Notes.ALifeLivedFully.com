@@ -2,13 +2,19 @@
 tags:
   - Resources/YouTube/NoBoilerplate
 ---
-# "The Cult of Done: Break the starting cycle" by NoBoilerplate
-stop starting and just get done.
+# No Boilerplate, 2023 ▶ The Cult of Done: Break the starting cycle
+stop starting and just get it done!
 
 >[!tldr]
 >create an MVP and post it. thats it! stop chasing perfection.
 
-![Embeded video](https://www.youtube.com/watch?v=bJQj1uKtnus&pp=ygUbbm8gYm9pbGVycGxhdGUgY3VsdCBvZiBkb25l)
+![No Boilerplate, 2023 ▶ The Cult of Done: Break the starting cycle](https://youtu.be/bJQj1uKtnus)
+
+## Timestamps
+- YT=00:00 - Start of video
+
+## Notes
+
 ## The Cult of Done Manifesto
 
 1. There are three states of being. Not knowing, action and completion.

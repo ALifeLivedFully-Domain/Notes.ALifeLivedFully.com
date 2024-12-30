@@ -1,7 +1,13 @@
-# "NixOS Tutorials - Basic Maintenance" by Why Does Nothing Work
-basic skills to upkeep your NixOS machine.
+# Why Does Nothing Work, 2024 ▶ NixOS Tutorials - Basic Maintenance
+Basic NixOS skills to maintain your machine.
 
-![Embeded video](https://www.youtube.com/watch?v=EI-6QX60WXc)
+>[!tldr]
+>After watching this I added automatic garbage collection, nix store optimization, and automatic upgrades to my nix config.
+
+![Why Does Nothing Work, 2024 ▶ NixOS Tutorials - Basic Maintenance](https://youtu.be/EI-6QX60WXc)
+
+## Timestamps
+- YT=00:00 - Start of video
 
 ## Notes
 I dont feel like taking much notes since i can just write the code into my configuration and reference it later. i should still take some notes tho.

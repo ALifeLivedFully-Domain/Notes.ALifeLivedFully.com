@@ -1,4 +1,4 @@
-# "3 Improvements, Now the RESULTS! Winter Camping in an RV Part 5" by Slim Potatohead
+# Slim Potatohead, 2023 ▶ 3 Improvements, Now the RESULTS! Winter Camping in an RV Part 5
 ![video](https://www.youtube.com/watch?v=jg8rjOQXvMU)
 
 1. New heater

@@ -1,4 +1,4 @@
-# "All Engineering Programs Explained in 11 minutes" by Tamer Shaheen
+# Tamer Shaheen, 2021 ▶ All Engineering Programs Explained in 11 minutes
 trying to figure out how bad i want to study engineering and which engineering program i sould focus on.
 
 >[!tldr]

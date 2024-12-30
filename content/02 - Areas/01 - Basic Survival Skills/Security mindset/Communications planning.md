@@ -7,9 +7,9 @@ Table of contents:
 
 >[!sources]
 >culmination of several resources:
->- [["Tips for survival comms with Josh Nass" by The FieldCraft Survival Channel]]
+>- [[The FieldCraft Survival Channel, 2024 ▶ Tips for survival comms with Josh Nass]]
 >- 
-[["How to survive in war" by CivDiv]]
+[[Civ Div, 2024 ▶ How to SURVIVE in War]]
 
 ## Notes
 - Locate nearby repeaters

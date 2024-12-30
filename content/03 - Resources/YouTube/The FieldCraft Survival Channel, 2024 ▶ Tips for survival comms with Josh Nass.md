@@ -1,11 +1,16 @@
-# "Tips for survival comms with Josh Nass" by The FieldCraft Survival Channel
+# The FieldCraft Survival Channel, 2024 ▶ Tips for survival comms with Josh Nass
 Josh nass has alot of good advanced radio resources but i feel like when he is featured on other peoples channels he does a better job at cutting it down to just the necessary info.
 
-## Terms
-- VHF = Very high frequency
+>[!tldr]
+>Summarize points here
+
+![The FieldCraft Survival Channel, 2024 ▶ Tips for survival comms with Josh Nass](https://youtu.be/7c-IKvVOTHw)
+
+## Timestamps
+- YT=00:00 - Start of video
 
 ## Notes
-- 
+- VHF= Very High Frequency
 
 ## The wilderness protocol
 the wilderness protocol is a set of guidelines for when to make/listen for emergency calls specifically in the wilderness/unpopulated areas.
