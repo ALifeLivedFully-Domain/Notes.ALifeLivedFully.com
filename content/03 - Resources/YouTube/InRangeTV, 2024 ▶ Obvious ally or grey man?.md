@@ -9,8 +9,8 @@ should you look like an obviously safe ally or try to stay under the radar?
 ![InRangeTV, 2024 ▶ Obvious ally or grey man?](https://youtu.be/Jp-g0s-mBBw)
 
 ## Timestamps
-- YT=00:00 - Start of video
-- YT=01:10 - Reading the question
+- [00:00](https://www.youtube.com/watch?v=Jp-g0s-mBBw&feature=youtu.be&t=00m00s) - Start of video
+- [01:10](https://www.youtube.com/watch?v=Jp-g0s-mBBw&feature=youtu.be&t=01m10s) - Reading the question
 
 >[!question]
 >- can you speak a bit about how to balance being a "grey man" vs being a clear ally when out in the wild? 
