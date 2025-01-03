@@ -1,0 +1,1 @@
+large empty field with a schematic cannon.
