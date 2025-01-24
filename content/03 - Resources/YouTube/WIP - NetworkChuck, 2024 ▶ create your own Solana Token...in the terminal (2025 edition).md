@@ -1,4 +1,4 @@
-# "create your own Solana Token...in the terminal (2025 edition)" by NetworkChuck
+# NetworkChuck, 2024 ▶ create your own Solana Token...in the terminal (2025 edition)
 chuck makes a token on the Solana network and then i think he is gonna make a smart contract version of a todo app after? sounds fun!
 
 >[!tldr]
@@ -16,9 +16,11 @@ chuck makes a token on the Solana network and then i think he is gonna make a sm
 pkgs.mkShell {
 	nativeBuildInputs = with pkgs; [
     rustc
+    solana-cli
 	];
 	
 	shellHook = ''
+	Echo "Dependencies Loaded"
 	'';
 }
 ```

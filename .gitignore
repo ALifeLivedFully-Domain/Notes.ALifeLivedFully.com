@@ -6,6 +6,17 @@ prof
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
-private/
 .replit
 replit.nix
+
+# User added
+Private/
+private/
+
+Hidden/
+hidden/
+
+Secrets/
+secrets/
+Secret/
+secret/
