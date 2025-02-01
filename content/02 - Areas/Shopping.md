@@ -1,6 +1,8 @@
 # Shopping
 I have tried my best to organize the shopping list by the area you will likely find the products in.
 
+You don't have to get it all at once, but be mindful of what items go together. you wouldn't want to get cereal without getting milk for example.
+
 ---
 ## Produce 
 Eating fresh produce is good for you, do it more often!
@@ -13,12 +15,17 @@ Eating fresh produce is good for you, do it more often!
 - [ ] Lettuce
 - [ ] Tomatoes
 - [ ] Potatoes (Russet)
+- [ ] Carrots
+- [ ] Broccoli
+- [ ] Cauliflower
+- [ ] 
 
 ---
 ## Dairy 
 - [ ] Eggs
 - [ ] Milk
 - [ ] Sour cream
+- [ ] Yogurt
 - [ ] Cheese
 	- [ ] Cheddar
 	- [ ] Mozzarella
@@ -29,10 +36,17 @@ Eating fresh produce is good for you, do it more often!
 ## Freezer Section
 - [ ] Pizza
 - [ ] Ice cream
+- [ ] Peas
 
 ---
 ## Meat & Protein 
-- [ ] Chicken (Thighs)
+- [ ] Chicken
+	- [ ] Thighs
+	- [x] breasts
+- [ ] Beef
+	- [ ] Ground beef
+	- [ ] Chuck roast
+	- [ ] Steak
 
 ---
 ## Deli 
@@ -46,34 +60,34 @@ Pantry staples are unlikely to go bad anytime soon, safe to stock up on.
 
 ### Baking
 - [ ] Flour
-- [ ] Baking soda
-- [ ] Baking powder
-- [ ] Cocoa powder
+- [x] Baking soda
+- [x] Baking powder
+- [x] Cocoa powder
 - [ ] White sugar
-- [ ] Dark brown sugar
+- [x] Dark brown sugar
 
 ### Seasonings
-- [ ] Salt
-- [ ] Pepper
+- [x] Salt
+- [x] Pepper
 
 ### Dry Grain
-- [ ] Oatmeal
+- [x] Oatmeal
 - [ ] Rice
 
 ### Cereal
-We usually enjoy whole grain cereals and tend to try to avoid super sweet cereals like Reeses puffs for example. (Although they are very tasty!) I want to start making cereal from scratch.
+We usually enjoy whole grain cereals and tend to try to avoid super sweet cereals like fruity pebbles or Reeses puffs for example. (Although they are very tasty!) I also want to start making cereal from scratch.
 
 **Cereals:**
-- [ ] Corn flakes
+- [ ] Corn flakes (Frosted flakes)
 - [ ] Rice Krispies
 - [ ] Honey nut cheerios
 - [ ] Bran flakes
-- [ ] Oatmeal
 - [ ] Wheaties
 - [ ] Shredded wheat
 
 ### Noodles
 - [ ] Spaghetti noodles
+- [ ] Lasagna
 
 ### Canned food
 - [ ] Re-fried beans
@@ -84,9 +98,11 @@ We usually enjoy whole grain cereals and tend to try to avoid super sweet cereal
 
 ### Other
 - [ ] Oil
-	- [ ] Olive oil (For cooking)
-	- [ ] Vegetable oil (For baking)
+	- [ ] Olive oil (For cooking, eating, etc)
+	- [ ] Vegetable oil (For baking, frying, etc)
 - [ ] Vinegar
+	- [ ] White distilled vinegar
+	- [ ] Malt vinegar
 
 ---
 ## Cooking sauces & Condiments
@@ -97,14 +113,17 @@ These are often put together or nearby.
 - [ ] Alfredo
 
 ### Condiments
-- [ ] Mayo
-- [ ] Ketchup
+- [ ] Hellmann's Mayo
+- [ ] Heinz Ketchup
 - [ ] Mustard
 - [ ] Pepper Relish (Jersey mikes sells a good one)
 - [ ] Pickles
 
 ---
 ## Alcohol
+Alcohol is not just for drinking, it is also a common ingredient when cooking and baking.
+
+**Alcohol:**
 - [ ] Rum
 - [ ] Vodka
 
@@ -125,9 +144,9 @@ some things in this section are obviously more urgent than others.
 - [ ] Hot pads
 - [ ] Waffle maker
 - [ ] Oil holder
-- [ ] Paper towel holder
+- [ ] Paper towel holder (Mount under cabinet, try to 3D Print)
 - [ ] Cup/bowl/plate to hold kitchen utensils mid cooking 
-- [ ] Cup to hold kitchen utensils 
+- [ ] Tortilla press
 
 ### Bedroom Items
 - [ ] Hangers for clothes
@@ -135,13 +154,16 @@ some things in this section are obviously more urgent than others.
 - [ ] Humidifier
 
 ### Bathroom Items
-- [ ] Two bathroom mats (Sink and shower)
+- [ ] Two bathroom mats
+	- [x] Shower
+	- [ ] Sink
 - [ ] Shower head 
 - [ ] Bathroom extra counter space 
 - [ ] Bidet
 
-### Other housewares
+### Other Items
 - [ ] Rechargeable AAA and AA batteries
+- [ ] 2 Xbox 360 controllers
 
 ### Firearms
 - [ ] Glock handgun (17, 19, etc)
